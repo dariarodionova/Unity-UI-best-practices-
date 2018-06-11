@@ -15,11 +15,13 @@ Stick to whatever format of name you chose internally and follow it across all p
  
 If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have have a **certain UI Scale mode** and a **Reference Resolution**.  
 Depending on prevailing shape of content on a certain canvas, adjust Match appropriately.
+![Alt](canvas_scaler.png)
+
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzMzNDIzNSw5MDg3NzU4NzksLTE3OD
-MyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1ODEx
-MDQ3LC0xODQ0OTQxOTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMjk3Nzg3NTIsMTU1NzMzNDIzNSw5MD
+g3NzU4NzksLTE3ODMyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2
+NTczLC0xMjM1ODExMDQ3LC0xODQ0OTQxOTJdfQ==
 -->
