@@ -36,14 +36,16 @@ The scale of the UI element should always be 1 by default, unless it is slightly
 
 7. **Simple layout - Rect Transform, more than several elements - Layout Component.**
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen and Layout Components for layouts with more than several elements.
+![Alt](layout_component.png)
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NT
-k1Nzg2OSwtOTgxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjcz
-OCwtMTYzMjMxMDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNz
-c2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0
-MjM1LDkwODc3NTg3OSwtMTc4MzIyNjYwOSwtMzgxNTgyOTIxLD
-E0MjEwNzY1NzMsLTEyMzU4MTEwNDcsLTE4NDQ5NDE5Ml19
+eyJoaXN0b3J5IjpbMjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMz
+YwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4NDY3
+LC0xNTIyMTE2NzM4LC0xNjMyMzEwMzYsLTEwMjI5MDI1NDgsMT
+U0MDc2ODI3MSw3NzYxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4
+NzUyLDE1NTczMzQyMzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC
+0zODE1ODI5MjEsMTQyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0
+NDk0MTkyXX0=
 -->
