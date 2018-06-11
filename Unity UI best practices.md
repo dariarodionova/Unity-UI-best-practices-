@@ -2,12 +2,13 @@
 # Unity UI best practices
 ## General
 ### Naming
-__Name UI elements sensibly__
+1. __Name UI elements sensibly__
 Just like objects in the scene, UI elements should be named sensibly with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized using an empty gameObject, with a consistent name, for instance “Content”.
+
 ![Alt](element_naming.png)
 
-__Stick to it__
+2. __Stick to it__
 Stick to whatever format of name you chose internally and follow it across all projects.
 ## Components
 ### Canvas Scaler
@@ -19,7 +20,7 @@ Depending on prevailing shape of content on a certain canvas, adjust Match appro
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zOD
-E1ODI5MjEsMTQyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0NDk0
-MTkyXX0=
+eyJoaXN0b3J5IjpbMTUzNDA3MDg3OCw5MDg3NzU4NzksLTE3OD
+MyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1ODEx
+MDQ3LC0xODQ0OTQxOTJdfQ==
 -->
