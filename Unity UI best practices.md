@@ -6,13 +6,13 @@
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized using an empty gameObject, with a consistent name, for instance “Content”.
 
-3. __Stick to it.__
+3. __Stick to it.__</br>
 Stick to whatever format of name you chose internally and follow it across all projects.
 
 ![Alt](element_naming.png)
 ## Components
 ### Canvas Scaler
-1. Use a **Canvas Scaler with consistent resolution** across all Canvases. 
+1. **Use a Canvas Scaler with consistent resolution across all Canvases. ** </br>
 If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform most common resoultion.  
 
 ![Alt](canvas_scaler.png)
@@ -26,9 +26,9 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUzNDc3NjgsLTEwMjI5MDI1NDgsMT
-U0MDc2ODI3MSw3NzYxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4
-NzUyLDE1NTczMzQyMzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC
-0zODE1ODI5MjEsMTQyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0
-NDk0MTkyXX0=
+eyJoaXN0b3J5IjpbMTk2MDM1Nzc2LC0xMDIyOTAyNTQ4LDE1ND
+A3NjgyNzEsNzc2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1
+MiwxNTU3MzM0MjM1LDkwODc3NTg3OSwtMTc4MzIyNjYwOSwtMz
+gxNTgyOTIxLDE0MjEwNzY1NzMsLTEyMzU4MTEwNDcsLTE4NDQ5
+NDE5Ml19
 -->
