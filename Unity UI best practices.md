@@ -13,13 +13,13 @@ Stick to whatever format of name you chose internally and follow it across all p
 ### Canvas Scaler
  Use **consistent Canvas Scaler** component across all Canvases.
  
-If you have more than 1 canvas, make sure to utilize a preset for Canvas Scaler that will have have a **certain UI Scale mode** and a **Reference Resolution**.  
+If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have have a **certain UI Scale mode** and a **Reference Resolution**.  
 Depending on prevailing shape of content on a certain canvas, adjust Match appropriately.
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTQwODk0NCw5MDg3NzU4NzksLTE3OD
+eyJoaXN0b3J5IjpbMTU1NzMzNDIzNSw5MDg3NzU4NzksLTE3OD
 MyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1ODEx
 MDQ3LC0xODQ0OTQxOTJdfQ==
 -->
