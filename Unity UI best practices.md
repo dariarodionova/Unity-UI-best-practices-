@@ -1,10 +1,11 @@
 
 # Unity UI best practices
 ## General
+1. 
 ## Components
-#" Design
-
+## Design
+## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMzMzI5NDcsLTE4NDQ5NDE5Ml19
+eyJoaXN0b3J5IjpbMjA3MDcyMTM1MCwtMTg0NDk0MTkyXX0=
 -->
