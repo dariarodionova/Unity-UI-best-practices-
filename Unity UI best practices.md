@@ -34,16 +34,17 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 6. **Keep Scale at 1.** </br>
 The scale of the UI element should always be 1 by default, unless it is slightly changed by animation or a specific use case applies.
 
-7. Simple layout - Rect Tr
+7. **Simple layout - Rect Transform, more than several elements - Layout Component.**
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen and Layout Components for layouts with more than several elements**
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMjQxMjM5LDIxMjM2MDMxMjMsMTA0NT
-k1Nzg2OSwtOTgxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjcz
-OCwtMTYzMjMxMDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNz
-c2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0
-MjM1LDkwODc3NTg3OSwtMTc4MzIyNjYwOSwtMzgxNTgyOTIxLD
-E0MjEwNzY1NzMsLTEyMzU4MTEwNDcsLTE4NDQ5NDE5Ml19
+eyJoaXN0b3J5IjpbLTEwNzA2MzQ0OTYsMjEyMzYwMzEyMywxMD
+Q1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2
+NzM4LC0xNjMyMzEwMzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MS
+w3NzYxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTcz
+MzQyMzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5Mj
+EsMTQyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0NDk0MTkyXX0=
+
 -->
