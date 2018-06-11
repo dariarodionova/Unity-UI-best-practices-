@@ -31,15 +31,17 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 
 ![Alt](rect_transform.png)
 
-
+6. **Keep Scale at 1.** </br>
+The scale of the UI element should always be 1 by default, unless it is slightly changed by animation or a specific use case.
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzOTAwODkxLDIxMjM2MDMxMjMsMTA0NT
-k1Nzg2OSwtOTgxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjcz
-OCwtMTYzMjMxMDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNz
-c2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0
-MjM1LDkwODc3NTg3OSwtMTc4MzIyNjYwOSwtMzgxNTgyOTIxLD
-E0MjEwNzY1NzMsLTEyMzU4MTEwNDcsLTE4NDQ5NDE5Ml19
+eyJoaXN0b3J5IjpbMTM3NTUyOTI3OSwyMTIzNjAzMTIzLDEwND
+U5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1MjIxMTY3
+MzgsLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNTQwNzY4MjcxLD
+c3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3NTIsMTU1NzMz
+NDIzNSw5MDg3NzU4NzksLTE3ODMyMjY2MDksLTM4MTU4MjkyMS
+wxNDIxMDc2NTczLC0xMjM1ODExMDQ3LC0xODQ0OTQxOTJdfQ==
+
 -->
