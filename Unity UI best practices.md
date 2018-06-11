@@ -26,16 +26,17 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ![Alt](match_example.png)
 
 ### Rect Transform
-5.
+5. **Keep values in Rect Transform clean.**
+Make sure that all values in rect transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals**
 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM2NzgwODUsMTA0NTk1Nzg2OSwtOT
-gxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjczOCwtMTYzMjMx
-MDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNzc2MTc2NjI3LD
-I5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0MjM1LDkwODc3
-NTg3OSwtMTc4MzIyNjYwOSwtMzgxNTgyOTIxLDE0MjEwNzY1Nz
-MsLTEyMzU4MTEwNDcsLTE4NDQ5NDE5Ml19
+eyJoaXN0b3J5IjpbMTM2Nzc2MzI4MCwxMDQ1OTU3ODY5LC05OD
+E1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEw
+MzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2MjcsMj
+k5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOTA4Nzc1
+ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5MjEsMTQyMTA3NjU3My
+wtMTIzNTgxMTA0NywtMTg0NDk0MTkyXX0=
 -->
