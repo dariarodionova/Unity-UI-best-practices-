@@ -11,17 +11,19 @@ Stick to whatever format of name you chose internally and follow it across all p
 ![Alt](element_naming.png)
 ## Components
 ### Canvas Scaler
- Use **consistent Canvas Scaler** component across all Canvases.
+1. Use **consistent Canvas Scaler** component across all Canvases.
  
 If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have have a **certain UI Scale mode** and a **Reference Resolution**.  
-Depending on prevailing shape of content on a certain canvas, adjust Match appropriately.
 ![Alt](canvas_scaler.png)
 
+2. Depending on prevailing shape of content on a certain canvas, **adjust Match appropriately**.
+Here is an example how different Match setting effect 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk3Nzg3NTIsMTU1NzMzNDIzNSw5MD
-g3NzU4NzksLTE3ODMyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2
-NTczLC0xMjM1ODExMDQ3LC0xODQ0OTQxOTJdfQ==
+eyJoaXN0b3J5IjpbNjY0MzQyMTMxLC0yMDI5Nzc4NzUyLDE1NT
+czMzQyMzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5
+MjEsMTQyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0NDk0MTkyXX
+0=
 -->
