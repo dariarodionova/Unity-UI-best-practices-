@@ -2,7 +2,7 @@
 # Unity UI best practices
 ## General
 ### Naming
-1. __Name UI elements sensibly.__
+1. __Name UI elements sensibly.__ </br>
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized using an empty gameObject, with a consistent name, for instance “Content”.
 
@@ -26,9 +26,9 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyODk1NzU3LC0xMDIyOTAyNTQ4LDE1ND
-A3NjgyNzEsNzc2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1
-MiwxNTU3MzM0MjM1LDkwODc3NTg3OSwtMTc4MzIyNjYwOSwtMz
-gxNTgyOTIxLDE0MjEwNzY1NzMsLTEyMzU4MTEwNDcsLTE4NDQ5
-NDE5Ml19
+eyJoaXN0b3J5IjpbLTE4MDUzNDc3NjgsLTEwMjI5MDI1NDgsMT
+U0MDc2ODI3MSw3NzYxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4
+NzUyLDE1NTczMzQyMzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC
+0zODE1ODI5MjEsMTQyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0
+NDk0MTkyXX0=
 -->
