@@ -18,7 +18,7 @@ If you have more than one canvas, make sure to utilize a preset for Canvas Scale
 ![Alt](canvas_scaler.png)
 
 
-2. **Adjust Match appropriately.** Depending on the prevailing shape of the content on a certain canvas. If this canvas will have
+2. **Adjust Match appropriately.** Depending on the prevailing shape of the content on a certain canvas. If this canvas will have elements that 
 Here is an example how different Match setting effect a **centered 1000*800 rectangle**:
 
 ![Alt](match_example.png)
@@ -26,8 +26,8 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTQ3MzEzMiwxNTQwNzY4MjcxLDc3Nj
-E3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3NTIsMTU1NzMzNDIz
-NSw5MDg3NzU4NzksLTE3ODMyMjY2MDksLTM4MTU4MjkyMSwxND
-IxMDc2NTczLC0xMjM1ODExMDQ3LC0xODQ0OTQxOTJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3Nz
+YxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQy
+MzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5MjEsMT
+QyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0NDk0MTkyXX0=
 -->
