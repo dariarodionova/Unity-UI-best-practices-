@@ -19,7 +19,7 @@ If you have more than one canvas, make sure to utilize a preset for Canvas Scale
 
 
 2. **Adjust Match appropriately.**</br>
-If target platform has many possible resolutions, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match to be 0(Width) for horizontally layed content and 1(Height) if the content id . If this canvas will have elements that 
+If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match to be 0(Width) for horizontally layed content and 1(Height) if the content  . If this canvas will have elements that 
 Here is an example how different Match setting effect a **centered 1000*800 rectangle**:
 
 ![Alt](match_example.png)
@@ -27,7 +27,7 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMzkxMTE5LC0xNTIyMTE2NzM4LC0xNj
+eyJoaXN0b3J5IjpbMjg0MzA1ODE1LC0xNTIyMTE2NzM4LC0xNj
 MyMzEwMzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2
 MjcsMjk5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOT
 A4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5MjEsMTQyMTA3
