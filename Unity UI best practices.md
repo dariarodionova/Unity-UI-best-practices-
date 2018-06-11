@@ -13,7 +13,7 @@ Stick to whatever format of name you chose internally and follow it across all p
 ## Components
 ### Canvas Scaler
 1. **Use a Canvas Scaler with consistent resolution across all Canvases.** </br>
-If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform most common resoultion.  
+If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
 
 ![Alt](canvas_scaler.png)
 
@@ -26,9 +26,9 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNT
-QwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3
-NTIsMTU1NzMzNDIzNSw5MDg3NzU4NzksLTE3ODMyMjY2MDksLT
-M4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1ODExMDQ3LC0xODQ0
-OTQxOTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjIxMTY3MzgsLTE2MzIzMTAzNiwtMT
+AyMjkwMjU0OCwxNTQwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEw
+MzAsLTIwMjk3Nzg3NTIsMTU1NzMzNDIzNSw5MDg3NzU4NzksLT
+E3ODMyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1
+ODExMDQ3LC0xODQ0OTQxOTJdfQ==
 -->
