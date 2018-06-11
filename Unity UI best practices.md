@@ -6,7 +6,7 @@
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized using an empty gameObject, with a consistent name, for instance “Content”.
 
-2. __Stick to it__
+3. __Stick to it.__
 Stick to whatever format of name you chose internally and follow it across all projects.
 
 ![Alt](element_naming.png)
@@ -26,8 +26,9 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3Nz
-YxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQy
-MzUsOTA4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5MjEsMT
-QyMTA3NjU3MywtMTIzNTgxMTA0NywtMTg0NDk0MTkyXX0=
+eyJoaXN0b3J5IjpbMTIyMDIzMDAyOSwtMTAyMjkwMjU0OCwxNT
+QwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3
+NTIsMTU1NzMzNDIzNSw5MDg3NzU4NzksLTE3ODMyMjY2MDksLT
+M4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1ODExMDQ3LC0xODQ0
+OTQxOTJdfQ==
 -->
