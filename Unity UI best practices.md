@@ -24,14 +24,18 @@ If target platform has many possible resolutions that vary in the orientation, i
 Here is an example how different Match setting effect a **centered 1000*800 rectangle** (that could be a inventory menu that in a PC game that usually has a landscape-aligned shape:
 
 ![Alt](match_example.png)
+
+### Rect Transform
+5.
+
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTk1Nzg2OSwtOTgxNTYzMjUyLDg5Nz
-IwODQ2NywtMTUyMjExNjczOCwtMTYzMjMxMDM2LC0xMDIyOTAy
-NTQ4LDE1NDA3NjgyNzEsNzc2MTc2NjI3LDI5OTg3MTAzMCwtMj
-AyOTc3ODc1MiwxNTU3MzM0MjM1LDkwODc3NTg3OSwtMTc4MzIy
-NjYwOSwtMzgxNTgyOTIxLDE0MjEwNzY1NzMsLTEyMzU4MTEwND
-csLTE4NDQ5NDE5Ml19
+eyJoaXN0b3J5IjpbLTEwNzM2NzgwODUsMTA0NTk1Nzg2OSwtOT
+gxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjczOCwtMTYzMjMx
+MDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNzc2MTc2NjI3LD
+I5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0MjM1LDkwODc3
+NTg3OSwtMTc4MzIyNjYwOSwtMzgxNTgyOTIxLDE0MjEwNzY1Nz
+MsLTEyMzU4MTEwNDcsLTE4NDQ5NDE5Ml19
 -->
