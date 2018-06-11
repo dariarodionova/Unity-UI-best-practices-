@@ -26,14 +26,14 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ![Alt](match_example.png)
 
 ### Rect Transform
-5. **Keep values in Rect Transform clean.**
-Make sure that all values in rect transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals**
+5. **Keep values in Rect Transform clean.**</br>
+Make sure that all values in Rect Transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals.
 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzc2MzI4MCwxMDQ1OTU3ODY5LC05OD
+eyJoaXN0b3J5IjpbMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05OD
 E1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEw
 MzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2MjcsMj
 k5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOTA4Nzc1
