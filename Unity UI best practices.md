@@ -10,10 +10,12 @@ Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should 
 __Stick to it__
 Stick to whatever format of name you chose internally and follow it across all projects.
 ## Components
+### Canvas Scaler
+
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTU4MjkyMSwxNDIxMDc2NTczLC0xMj
-M1ODExMDQ3LC0xODQ0OTQxOTJdfQ==
+eyJoaXN0b3J5IjpbMTI3NDMzMjc2NiwtMzgxNTgyOTIxLDE0Mj
+EwNzY1NzMsLTEyMzU4MTEwNDcsLTE4NDQ5NDE5Ml19
 -->
