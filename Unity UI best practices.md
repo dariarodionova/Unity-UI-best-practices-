@@ -10,7 +10,6 @@ Stick to whatever format of name you chose internally and follow it across all p
 
 ![Alt](element_naming.png)
 ## Components
-### Canvas Scaler
 3. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
 If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
 
@@ -24,7 +23,6 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 
 ![Alt](match_example.png)
 
-### Rect Transform
 5. **Keep values in Rect Transform clean** </br>
 Make sure that all values in Rect Transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals.
 
@@ -70,12 +68,14 @@ As a rule of a thumb, if you are using one font, you can use up to 3 different s
 
 ## Programming
 
+17.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg4NTYyMjgsLTMwNzI0NzQxMCwtMT
-k1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAx
-MzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwND
-IsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUy
-ODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1Ni
-wyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcy
-MDg0NjddfQ==
+eyJoaXN0b3J5IjpbLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOT
+UxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEz
+Njg1MiwxMDA5ODY4ODAwLC02MzcxODExMTYsMjA2NTk4MzA0Mi
+wtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4NTE3ODk1LDIwNTI4
+MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMTgsODEzNDc5MDU2LD
+IxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgxNTYzMjUyLDg5NzIw
+ODQ2N119
 -->
