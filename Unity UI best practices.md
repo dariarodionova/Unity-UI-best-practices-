@@ -5,7 +5,7 @@
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized using an empty gameObject, with a consistent name, for instance “Content”.
 
-2. __Stick to it__</br>
+2. __Stick to it__ </br>
 Stick to whatever format of name you chose internally and follow it across all projects.
 
 ![Alt](element_naming.png)
@@ -17,7 +17,7 @@ If you have more than one canvas, make sure to utilize a preset for Canvas Scale
 ![Alt](canvas_scaler.png)
 
 
-4. **Adjust Match appropriately**</br>
+4. **Adjust Match appropriately** </br>
 If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
 
 Here is an example how different Match setting effect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
@@ -25,7 +25,7 @@ Here is an example how different Match setting effect a **centered 1000*800 rect
 ![Alt](match_example.png)
 
 ### Rect Transform
-5. **Keep values in Rect Transform clean**</br>
+5. **Keep values in Rect Transform clean** </br>
 Make sure that all values in Rect Transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals.
 
 ![Alt](rect_transform.png)
@@ -33,7 +33,7 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 6. **Keep Scale at 1** </br>
 The scale of the UI element should always be 1 by default, unless it is slightly changed by animation or a specific use case applies.
 
-7. **Simple layout - Rect Transform, more than several elements - Layout Component**
+7. **Simple layout - Rect Transform, more than several elements - Layout Component** </br>
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen) and Layout Components for layouts with more than several elements or anything that should be stacked.
 ![Alt](layout_component.png)
 
@@ -47,21 +47,21 @@ Starting from Unity 2018, usse presets for as many common components as possible
 10. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar, **by default** should behave similarly to those in Unity Editor.
  
- 11. **Avoid Best Fit**</br>
+ 11. **Avoid Best Fit** </br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
-11. **Use TextMesh Pro component instead of Text**</br>
+11. **Use TextMesh Pro component instead of Text** </br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. Textmesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
-12. **Do not use textures where 
-For the UI elements that are build from white rectangles, do not use any textures, use Image component with an empty source.**
+12. **Do not use textures when they are not needed** </br>
+For the UI elements that could build from white rectangles, do not use any textures, use Image component with an empty source.**
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNTE5MjYsLTg2MDM4MzI5MiwtMTkwMT
-M2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQy
-LC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1Mj
-gwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYs
-MjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3Mj
-A4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEwMzYsLTEwMjI5MDI1
-NDhdfQ==
+eyJoaXN0b3J5IjpbLTQzMDc1Mzk4MCwtODYwMzgzMjkyLC0xOT
+AxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMw
+NDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMD
+UyODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1
+NiwyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OT
+cyMDg0NjcsLTE1MjIxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkw
+MjU0OF19
 -->
