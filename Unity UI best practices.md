@@ -67,14 +67,15 @@ All uniformly colored textures should be white and colored in the Image  compone
 16. **Strive for good typography** </br> 
 Great typography is a must for achieving a professional look for your game/app. Use high quality fonts and make sure that there are only one or two fonts used. 
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
+
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk2MDc5NDAsLTMwNzI0NzQxMCwtMT
-k1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAx
-MzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwND
-IsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUy
-ODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1Ni
-wyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcy
-MDg0NjddfQ==
+eyJoaXN0b3J5IjpbMjc4MTc1MjEwLC0zMDcyNDc0MTAsLTE5NT
+E1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2
+ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC
+00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1Mjgw
+MzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMj
+EyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4
+NDY3XX0=
 -->
