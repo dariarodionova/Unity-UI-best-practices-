@@ -52,16 +52,16 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
 11. **Use TextMesh Pro component instead of Text** </br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. Textmesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
 12. **Do not use textures when they are not needed** </br>
-For the UI elements that could be build from white rectangles, do not use any textures, use Image component with an empty source instead.**
+For the UI elements that could be build from white rectangles, do not use any textures, use Image component with an empty source instead. ![Alt](empty_image.png)
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQzODk0MTMsLTg2MDM4MzI5MiwtMT
-kwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgz
-MDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMj
-A1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0Nzkw
-NTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsOD
-k3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEwMzYsLTEwMjI5
-MDI1NDhdfQ==
+eyJoaXN0b3J5IjpbLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLT
+g2MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4
+MTExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LD
+IwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUx
+MDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC
+05ODE1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMy
+MzEwMzZdfQ==
 -->
