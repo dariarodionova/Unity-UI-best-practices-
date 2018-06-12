@@ -57,15 +57,17 @@ For the UI elements that could be build from white rectangles, do not use any te
 
 13. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar, **by default** should behave similarly to those in Unity Editor.
- 
+
+14. **Make Debug UI descreet** </br>
+All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyMDYwOTAsLTE5NTE1MjE1NzQsLT
-IwNjQzODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4
-Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC00NzM1NTkzMT
-UsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0
-MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMy
-wxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4NDY3LC0xNTIy
-MTE2NzM4XX0=
+eyJoaXN0b3J5IjpbLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMj
+A2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAwOTg2
+ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OTMxNS
+wyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUyODAzMzYsLTY2NDQw
+NzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNjAzMTIzLD
+EwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1MjIx
+MTY3MzhdfQ==
 -->
