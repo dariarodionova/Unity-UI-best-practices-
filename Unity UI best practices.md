@@ -49,17 +49,19 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
  
  11. **Avoid Best Fit**</br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
-11. **Use TextMesh Pro component instead of Text**
+11. **Use TextMesh Pro component instead of Text**</br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. Textmesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
+12. **Do not use textures where 
+For the UI elements that are build from white rectangles, do not use any textures, use Image component with an empty source.**
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU4NzczNTAsLTg2MDM4MzI5MiwtMT
-kwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgz
-MDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMj
-A1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0Nzkw
-NTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsOD
-k3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEwMzYsLTEwMjI5
-MDI1NDhdfQ==
+eyJoaXN0b3J5IjpbNjMxNTE5MjYsLTg2MDM4MzI5MiwtMTkwMT
+M2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQy
+LC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1Mj
+gwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYs
+MjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3Mj
+A4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEwMzYsLTEwMjI5MDI1
+NDhdfQ==
 -->
