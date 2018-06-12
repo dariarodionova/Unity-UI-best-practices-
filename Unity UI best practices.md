@@ -65,15 +65,15 @@ All developer (debug) UI should be discreet and not overlap the primary UI in an
 All uniformly colored textures should be white and colored in the Image  component. This promotes wise usage of resources.
 
 16. **Strive for good typography** </br> 
-Great typography is a must for achieving a professional look for your game/app. Use high quality fonts and make sure that there are only 1 or two fonts used. As a rule of a thumb, 
+Great typography is a must for achieving a professional look for your game/app. Use high quality fonts and make sure that there are only one or two fonts used. As a rule of a thumb, if using one font, 
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODY2MTgyMiwtMzA3MjQ3NDEwLC0xOT
-UxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEz
-Njg1MiwxMDA5ODY4ODAwLC02MzcxODExMTYsMjA2NTk4MzA0Mi
-wtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4NTE3ODk1LDIwNTI4
-MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMTgsODEzNDc5MDU2LD
-IxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgxNTYzMjUyLDg5NzIw
-ODQ2N119
+eyJoaXN0b3J5IjpbNDA1MTU5NTQxLC0zMDcyNDc0MTAsLTE5NT
+E1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2
+ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC
+00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1Mjgw
+MzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMj
+EyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4
+NDY3XX0=
 -->
