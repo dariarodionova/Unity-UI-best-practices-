@@ -44,7 +44,7 @@ Disable Raycast Target property for all non-interactive elements straight after 
 Starting from Unity 2018, use presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
  10. **Avoid Best Fit** </br>
- If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
+ If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
  
 11. **Use TextMesh Pro component instead of Text** </br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. Textmesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
@@ -84,7 +84,7 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc4NTY2MTQsODYwNzEwMDQ0LC0xMz
+eyJoaXN0b3J5IjpbLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMz
 kxMjYwNzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0
 NzQxMCwtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMj
 kyLC0xOTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIw
