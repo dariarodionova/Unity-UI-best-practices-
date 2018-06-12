@@ -77,9 +77,9 @@ Use pooling approach for Scroll Views for cases like leaderboards or any long li
 
 19. **Active or Inactive? Your team mate doesn't know** </br>
 Frequently, the logic of the game assumes that some UI is turned on on start, some appears while the user is interacting with the game/app and some should only appear seldom.</br>
-Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given big enough number of elements can forget what should be in which sta
+Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given big enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time lost.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3NjU2NTUsLTg3Mjg3OTU4MCwtMz
+eyJoaXN0b3J5IjpbLTIwMDQ2NjE4NTMsLTg3Mjg3OTU4MCwtMz
 A3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAz
 ODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxODExMT
 YsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4
