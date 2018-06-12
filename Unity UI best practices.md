@@ -47,13 +47,15 @@ Starting from Unity 2018, usse presets for as many common components as possible
 10. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar, **by default** should behave similarly to those in Unity Editor.
  
- 11. **Avoid Best Fit**
+ 11. **Avoid Best Fit**</br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
+11. **Use TextMesh Pro**</br>
+
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQyNjg3NiwyMDY1OTgzMDQyLC00Nz
+eyJoaXN0b3J5IjpbLTYzNzE4MTExNiwyMDY1OTgzMDQyLC00Nz
 M1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2
 LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMz
 YwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4NDY3
