@@ -70,11 +70,10 @@ You can find good fonts preselected specifically for apps at [fontshop.com](http
 ## Programming
 
 17. **No hiding in alpha** </br>
-Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and 
-If any element becomes hidden as a result of alpha adjustment, make sure to disable it for the period of inactivity, so this element does not use computational resources
+Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such element for the period of inactivity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQwODg1NjEsLTg3Mjg3OTU4MCwtMz
+eyJoaXN0b3J5IjpbLTE5NDc2NDY5NjIsLTg3Mjg3OTU4MCwtMz
 A3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAz
 ODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxODExMT
 YsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4
