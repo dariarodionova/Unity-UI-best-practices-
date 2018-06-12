@@ -75,8 +75,10 @@ Do not use alpha adjustment as a way to hide parts or whole UIs. If any element 
 18. **Pool that scroll** </br>
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
+19. **Active or Inactive? Your team mate doesn't know** </br>
+Frequently, the logic of t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA2NDgzMDUsLTg3Mjg3OTU4MCwtMz
+eyJoaXN0b3J5IjpbLTE1NTQ1MDY1MDIsLTg3Mjg3OTU4MCwtMz
 A3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAz
 ODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxODExMT
 YsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4
