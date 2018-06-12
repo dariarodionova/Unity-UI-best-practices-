@@ -37,7 +37,7 @@ Use Rect Transform for creating very simple layouts (like anchoring individual e
 ![Alt](layout_component.png)
 
 8. **Disable Raycast Target** </br>
-Disable Raycast Target property for all non-interactive elements straight after you have created them. Grayphic Raycaster will perform intersection checks every frame for all elements that are marked as a Racast Target. In case of complex UI with inappropretely marked elements that  could seriously influence performance.
+Disable Raycast Target property for all non-interactive elements straight after you have created them. Graphic Raycaster will perform intersection checks every frame for all elements that are marked as a Racast Target. In case of complex UI with inappropretely marked elements that  could seriously influence performance.
 ![Alt](raycast.png)
 
 9. **Use Presets** </br>
@@ -84,11 +84,11 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMz
-c2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUy
-MTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAxMzY4NT
-IsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwNDIsLTQ3
-MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUyODAzMz
-YsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIz
-NjAzMTIzXX0=
+eyJoaXN0b3J5IjpbLTEwOTIwMDQwMDksODYwNzEwMDQ0LC0xMz
+kxMjYwNzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0
+NzQxMCwtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMj
+kyLC0xOTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIw
+NjU5ODMwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNz
+g5NSwyMDUyODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgx
+MzQ3OTA1Nl19
 -->
