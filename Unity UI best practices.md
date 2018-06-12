@@ -73,14 +73,14 @@ You can find good fonts preselected specifically for apps at [fontshop.com](http
 Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such element for the period of inactivity.
 
 18. **Pull that scroll** </br>
-Use pooling approach for scroll views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour o
+Use pooling approach for scroll views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techinques check this. [link](http://example.com).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY1MDg5NCwtODcyODc5NTgwLC0zMD
-cyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4
-MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNi
-wyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1
-MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOC
-w4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1
-NjMyNTJdfQ==
+eyJoaXN0b3J5IjpbNTAyNzM2NDI5LC04NzI4Nzk1ODAsLTMwNz
+I0NzQxMCwtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgz
+MjkyLC0xOTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LD
+IwNjU5ODMwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUx
+Nzg5NSwyMDUyODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LD
+gxMzQ3OTA1NiwyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2
+MzI1Ml19
 -->
