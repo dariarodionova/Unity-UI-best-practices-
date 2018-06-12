@@ -47,15 +47,17 @@ Starting from Unity 2018, usse presets for as many common components as possible
 10. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar, **by default** should behave similarly to those in Unity Editor.
  
+ 11. **Avoid Best Fit**
+ If using Unity UI, avoid using Best Fit functionality because i
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NT
-E3Njk1NiwyMDI4NTE3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3
-LDIwMjc1MTAzMTgsODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NT
-k1Nzg2OSwtOTgxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjcz
-OCwtMTYzMjMxMDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNz
-c2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0
-MjM1XX0=
+eyJoaXN0b3J5IjpbOTc5NTc0NTU0LDIwNjU5ODMwNDIsLTQ3Mz
+U1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUyODAzMzYs
+LTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNj
+AzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0Njcs
+LTE1MjIxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNT
+QwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3
+NTJdfQ==
 -->
