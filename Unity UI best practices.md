@@ -38,16 +38,17 @@ The scale of the UI element should always be 1 by default, unless it is slightly
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen) and Layout Components for layouts with more than several elements or anything that should be stacked.
 ![Alt](layout_component.png)
 
-8. **Disable the raycast Target property for non-interactive elements**
+8. **Disable Raycast Target** </br>
+By default Raycast Target is tuDisable the raycast Target property for non-interactive elements
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0OTI0NTQxLDIwNTI4MDMzNiwtNjY0ND
-A3MzQ3LDIwMjc1MTAzMTgsODEzNDc5MDU2LDIxMjM2MDMxMjMs
-MTA0NTk1Nzg2OSwtOTgxNTYzMjUyLDg5NzIwODQ2NywtMTUyMj
-ExNjczOCwtMTYzMjMxMDM2LC0xMDIyOTAyNTQ4LDE1NDA3Njgy
-NzEsNzc2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNT
-U3MzM0MjM1LDkwODc3NTg3OSwtMTc4MzIyNjYwOSwtMzgxNTgy
-OTIxXX0=
+eyJoaXN0b3J5IjpbMTM3MzQzNjI2NywyMDUyODAzMzYsLTY2ND
+QwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNjAzMTIz
+LDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1Mj
+IxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNTQwNzY4
+MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3NTIsMT
+U1NzMzNDIzNSw5MDg3NzU4NzksLTE3ODMyMjY2MDksLTM4MTU4
+MjkyMV19
 -->
