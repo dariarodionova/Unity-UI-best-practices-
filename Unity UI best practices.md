@@ -60,14 +60,17 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
 
 14. **Make Debug UI descreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
+
+15. ** Keep uniformly coloured textures white**
+16. **All uniformly colored textures should be white and colored in the component**
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMj
-A2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAwOTg2
-ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OTMxNS
-wyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUyODAzMzYsLTY2NDQw
-NzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNjAzMTIzLD
-EwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1MjIx
-MTY3MzhdfQ==
+eyJoaXN0b3J5IjpbLTIxODI3MDM1NiwtMzA3MjQ3NDEwLC0xOT
+UxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEz
+Njg1MiwxMDA5ODY4ODAwLC02MzcxODExMTYsMjA2NTk4MzA0Mi
+wtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4NTE3ODk1LDIwNTI4
+MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMTgsODEzNDc5MDU2LD
+IxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgxNTYzMjUyLDg5NzIw
+ODQ2N119
 -->
