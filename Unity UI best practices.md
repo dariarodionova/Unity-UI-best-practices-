@@ -76,18 +76,18 @@ Do not use alpha adjustment as a way to hide parts or whole UIs. If any element 
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
 19. **Active or Inactive? Your team mate doesn't know** </br>
-Frequently, the logic of the game assumes that some UI is turned on on start, some appears while the user is interacting with the game/app and some should only appear seldom.</br></br>
+Frequently, the logic of the game assumes that some UI is turned on on start, some appears while the user is interacting with the game/app and some should only appear seldom.</br>
 
 Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given big enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time lost.
 
 20.  **Your product can't end up being bad if you have perfected every step** </br>
 Just think about creating a great product won't necesseraly bring you there. Try increasing quality of every part, every step of your project and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLT
-g3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0
-Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4OD
-AwLC02MzcxODExMTYsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0
-NTE3Njk1NiwyMDI4NTE3ODk1LDIwNTI4MDMzNiwtNjY0NDA3Mz
-Q3LDIwMjc1MTAzMTgsODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0
-NTk1Nzg2OV19
+eyJoaXN0b3J5IjpbMTY0OTkyMDE1NCwtMTM5MTI2MDcyMywtMT
+M3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MTAsLTE5NTE1
+MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2OD
+UyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC00
+NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMz
+M2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEy
+MzYwMzEyM119
 -->
