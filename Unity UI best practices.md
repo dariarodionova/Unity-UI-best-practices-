@@ -61,11 +61,11 @@ Elements like Input Field, Slider or ScrollBar **by default** should behave simi
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 
 15. **Keep uniformly colored textures white** </br>
-All uniformly colored textures should be white and colored in the Image  component. This promotes wise usage of resources.
+All uniformly colored textures should be white and colored in the Image  component. This promotes wise use of resources.
 
 16. **Strive for good typography** </br> 
-Great typography is a must for achieving a professional look for your game/app. Use high quality fonts and make sure that there are only one or two fonts used. </br>
-As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
+Great typography is a must for achieving a professional look for your game/app. Use high-quality fonts and make sure that there are only one or two fonts used. </br>
+As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
 ## Programming
@@ -74,7 +74,7 @@ You can find good fonts preselected specifically for apps at [fontshop.com](http
 Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such elements for the period of inactivity.
 
 18. **Pool that scroll** </br>
-Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
+Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behavior of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
 19. **Active or Inactive? Your team mate doesn't know** </br>
 Frequently, the logic of the game assumes that some UI is turned on before start, some appears while the user is interacting with the game/app and some should only appear seldom.
@@ -84,7 +84,7 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDg3NjM2NCwtMTAxODQxMDgyMCwtMj
+eyJoaXN0b3J5IjpbMjEwMDMzODcyNywtMTAxODQxMDgyMCwtMj
 M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
 NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
 wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
