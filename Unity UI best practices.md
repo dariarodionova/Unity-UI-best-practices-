@@ -50,16 +50,16 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
  11. **Avoid Best Fit**</br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 11. **Use TextMesh Pro component instead of Text**
-TextMesh Pro could be a very good substitution to a Text component 
+Because of a TextMesh Pro could be a very good substitution to a Text component 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MTA1Mjg4LDEwMDk4Njg4MDAsLTYzNz
-E4MTExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2
-LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNz
-UxMDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5
-LC05ODE1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNj
-MyMzEwMzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2
-MjddfQ==
+eyJoaXN0b3J5IjpbLTE0ODgxNTczODAsMTAwOTg2ODgwMCwtNj
+M3MTgxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5
+NTYsMjAyODUxNzg5NSwyMDUyODAzMzYsLTY2NDQwNzM0NywyMD
+I3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNjAzMTIzLDEwNDU5NTc4
+NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1MjIxMTY3MzgsLT
+E2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNTQwNzY4MjcxLDc3NjE3
+NjYyN119
 -->
