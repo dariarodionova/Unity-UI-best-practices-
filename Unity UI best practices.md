@@ -42,15 +42,17 @@ Use Rect Transform for creating very simple layouts (like anchoring individual e
 Disable Raycast Target property for all non-interactive elements straight after you have created them. Grayphic Raycaster will perform intersection checks every frame for all elements that are marked as a Racast Target. In case of complex UI with inappropretely marked elements that  could seriously influence performance.
 ![Alt](raycast.png)
 
+9. **Use Presets** </br>
+Starting from Unity 2018 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDgxNjU5LDI0NTE3Njk1NiwyMDI4NT
-E3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMTgs
-ODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgxNT
-YzMjUyLDg5NzIwODQ2NywtMTUyMjExNjczOCwtMTYzMjMxMDM2
-LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNzc2MTc2NjI3LDI5OT
-g3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0MjM1LDkwODc3NTg3
-OV19
+eyJoaXN0b3J5IjpbLTIwODMwNjgxNTIsMjQ1MTc2OTU2LDIwMj
+g1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMx
+OCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05OD
+E1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEw
+MzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2MjcsMj
+k5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOTA4Nzc1
+ODc5XX0=
 -->
