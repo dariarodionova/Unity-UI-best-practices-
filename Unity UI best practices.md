@@ -48,16 +48,16 @@ Starting from Unity 2018, usse presets for as many common components as possible
 Elements like Input Field, Slider or ScrollBar, **by default** should behave similarly to those in Unity Editor.
  
  11. **Avoid Best Fit**
- If using Unity UI, avoid using Best Fit functionality because it is bad both in te
+ If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit here.
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTI1MzMwNiwyMDY1OTgzMDQyLC00Nz
-M1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2
-LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMz
-YwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4NDY3
-LC0xNTIyMTE2NzM4LC0xNjMyMzEwMzYsLTEwMjI5MDI1NDgsMT
-U0MDc2ODI3MSw3NzYxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4
-NzUyXX0=
+eyJoaXN0b3J5IjpbNTUxOTI3MTM2LDIwNjU5ODMwNDIsLTQ3Mz
+U1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUyODAzMzYs
+LTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNj
+AzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0Njcs
+LTE1MjIxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNT
+QwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3
+NTJdfQ==
 -->
