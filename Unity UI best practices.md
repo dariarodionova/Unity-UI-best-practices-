@@ -39,12 +39,12 @@ Use Rect Transform for creating very simple layouts (like anchoring individual e
 ![Alt](layout_component.png)
 
 8. **Disable Raycast Target** </br>
-By default Raycast Target is tuDisable the raycast Target property for non-interactive elements
+Disable Raycast Target property for all non-interactive elements straight after you have created them.
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzQzNjI2NywyMDUyODAzMzYsLTY2ND
+eyJoaXN0b3J5IjpbMjAyODUxNzg5NSwyMDUyODAzMzYsLTY2ND
 QwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNjAzMTIz
 LDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1Mj
 IxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNTQwNzY4
