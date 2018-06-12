@@ -41,13 +41,13 @@ Disable Raycast Target property for all non-interactive elements straight after 
 ![Alt](raycast.png)
 
 9. **Use Presets** </br>
-Starting from Unity 2018, use presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
+Starting with Unity 2018, use presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
  10. **Avoid Best Fit** </br>
- If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
+ If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and performance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
  
 11. **Use TextMesh Pro component instead of Text** </br>
-Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. Textmesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
+Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. TextMesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
 
 12. **Do not use textures when they are not needed** </br>
 For the UI elements that could be build from white rectangles, do not use any textures, use Image component with an empty source instead. ![Alt](empty_image.png)
@@ -57,10 +57,10 @@ For the UI elements that could be build from white rectangles, do not use any te
 13. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar **by default** should behave similarly to those in Unity Editor.
 
-14. **Make Debug UI descreet** </br>
+14. **Make Debug UI discreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 
-15. **Keep uniformly coloured textures white** </br>
+15. **Keep uniformly colored textures white** </br>
 All uniformly colored textures should be white and colored in the Image  component. This promotes wise usage of resources.
 
 16. **Strive for good typography** </br> 
@@ -84,11 +84,11 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM4NDE1OTEsLTEwMTg0MTA4MjAsLT
-IzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2
-MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MT
-AsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5Miwt
-MTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OT
-gzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUs
-MjA1MjgwMzM2XX0=
+eyJoaXN0b3J5IjpbLTUwMDg3NjM2NCwtMTAxODQxMDgyMCwtMj
+M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
+NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
+wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
+OTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5OD
+MwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwy
+MDUyODAzMzZdfQ==
 -->
