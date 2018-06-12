@@ -43,16 +43,16 @@ Disable Raycast Target property for all non-interactive elements straight after 
 ![Alt](raycast.png)
 
 9. **Use Presets** </br>
-Starting from Unity 2018 
+Starting from Unity 2018, usse presets for as many common components as possible. Components like Shadow, T 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwNjgxNTIsMjQ1MTc2OTU2LDIwMj
-g1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMx
-OCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05OD
-E1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEw
-MzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2MjcsMj
-k5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOTA4Nzc1
-ODc5XX0=
+eyJoaXN0b3J5IjpbMTM4NDY0Njc4NywyNDUxNzY5NTYsMjAyOD
+UxNzg5NSwyMDUyODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4
+LDgxMzQ3OTA1NiwyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MT
+U2MzI1Miw4OTcyMDg0NjcsLTE1MjIxMTY3MzgsLTE2MzIzMTAz
+NiwtMTAyMjkwMjU0OCwxNTQwNzY4MjcxLDc3NjE3NjYyNywyOT
+k4NzEwMzAsLTIwMjk3Nzg3NTIsMTU1NzMzNDIzNSw5MDg3NzU4
+NzldfQ==
 -->
