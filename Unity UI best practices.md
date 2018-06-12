@@ -39,16 +39,16 @@ Use Rect Transform for creating very simple layouts (like anchoring individual e
 ![Alt](layout_component.png)
 
 8. **Disable Raycast Target** </br>
-Disable Raycast Target property for all non-interactive elements straight after you have created them.
+Disable Raycast Target property for all non-interactive elements straight after you have created them. Grayphic Raycaster 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODUxNzg5NSwyMDUyODAzMzYsLTY2ND
-QwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1NiwyMTIzNjAzMTIz
-LDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcyMDg0NjcsLTE1Mj
-IxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkwMjU0OCwxNTQwNzY4
-MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLTIwMjk3Nzg3NTIsMT
-U1NzMzNDIzNSw5MDg3NzU4NzksLTE3ODMyMjY2MDksLTM4MTU4
-MjkyMV19
+eyJoaXN0b3J5IjpbLTEzMDM3MTc3MDAsMjAyODUxNzg5NSwyMD
+UyODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1
+NiwyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OT
+cyMDg0NjcsLTE1MjIxMTY3MzgsLTE2MzIzMTAzNiwtMTAyMjkw
+MjU0OCwxNTQwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEwMzAsLT
+IwMjk3Nzg3NTIsMTU1NzMzNDIzNSw5MDg3NzU4NzksLTE3ODMy
+MjY2MDldfQ==
 -->
