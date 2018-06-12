@@ -61,7 +61,7 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
 14. **Make Debug UI descreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 
-15. ** Keep uniformly coloured textures white** </br>
+15. **Keep uniformly coloured textures white** </br>
 All uniformly colored textures should be white and colored in the Image  component. This promotes wise usage of resources.
 
 16. **Strive for good typography** </br> 
@@ -71,11 +71,11 @@ As a rule of a thumb, if you are using one font, you can use up to 3 different s
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MTc1MjEwLC0zMDcyNDc0MTAsLTE5NT
-E1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2
-ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC
-00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1Mjgw
-MzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOCw4MTM0NzkwNTYsMj
-EyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1NjMyNTIsODk3MjA4
-NDY3XX0=
+eyJoaXN0b3J5IjpbLTE3MTg4NTYyMjgsLTMwNzI0NzQxMCwtMT
+k1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAx
+MzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwND
+IsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUy
+ODAzMzYsLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMzQ3OTA1Ni
+wyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1Miw4OTcy
+MDg0NjddfQ==
 -->
