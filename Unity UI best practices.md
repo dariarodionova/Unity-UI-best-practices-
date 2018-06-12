@@ -43,13 +43,15 @@ Disable Raycast Target property for all non-interactive elements straight after 
 ![Alt](raycast.png)
 
 9. **Use Presets** </br>
-Starting from Unity 2018, usse presets for as many common components as possible. Components like Shadow, Text or Outline could be good candidates for having consistent values. 
+Starting from Unity 2018, usse presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
+
+10. Check 
  
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTI0NTQwLDI0NTE3Njk1NiwyMDI4NT
+eyJoaXN0b3J5IjpbOTU1NzQ5MjM5LDI0NTE3Njk1NiwyMDI4NT
 E3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMTgs
 ODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgxNT
 YzMjUyLDg5NzIwODQ2NywtMTUyMjExNjczOCwtMTYzMjMxMDM2
