@@ -50,12 +50,12 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
  11. **Avoid Best Fit**</br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and perfomance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 11. **Use TextMesh Pro component instead of Text**
-Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a beuti
+Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. 
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTY3NDQyMywxMDA5ODY4ODAwLC02Mz
+eyJoaXN0b3J5IjpbLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02Mz
 cxODExMTYsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1
 NiwyMDI4NTE3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3LDIwMj
 c1MTAzMTgsODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NTk1Nzg2
