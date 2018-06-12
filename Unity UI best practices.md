@@ -77,14 +77,14 @@ Do not use alpha adjustment as a way to hide parts or whole UIs. If any element 
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
 19. **Active or Inactive? Your team mate doesn't know** </br>
-Frequently, the logic of the game assumes that some UI is turned on on start, some appears while the user is interacting with the game/app and some should only appear seldom.
+Frequently, the logic of the game assumes that some UI is turned on before start, some appears while the user is interacting with the game/app and some should only appear seldom.
 
 Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given big enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time lost.
 ## Before you go
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODI3MzU0MywtMjM3MTcyNjYsLTE3Mj
+eyJoaXN0b3J5IjpbMTQyMjIyOTk5MSwtMjM3MTcyNjYsLTE3Mj
 YzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgy
 MjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NC
 wtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAw
