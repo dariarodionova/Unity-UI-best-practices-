@@ -73,10 +73,10 @@ You can find good fonts preselected specifically for apps at [fontshop.com](http
 Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such element for the period of inactivity.
 
 18. **Pool that scroll** </br>
-Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techinques visit[official page](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
+Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE1MTQ4NDcsLTg3Mjg3OTU4MCwtMz
+eyJoaXN0b3J5IjpbLTE2MjA2NDgzMDUsLTg3Mjg3OTU4MCwtMz
 A3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAz
 ODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxODExMT
 YsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4
