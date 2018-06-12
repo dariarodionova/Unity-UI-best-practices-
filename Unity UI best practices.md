@@ -71,7 +71,7 @@ You can find good fonts preselected specifically for apps at [fontshop.com](http
 ## Programming
 
 17. **No hiding in alpha** </br>
-Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such element for the period of inactivity.
+Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such elements for the period of inactivity.
 
 18. **Pool that scroll** </br>
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
@@ -84,11 +84,11 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MD
-cxMDA0NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcyODc5
-NTgwLC0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MT
-MsLTg2MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYz
-NzE4MTExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OT
-U2LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAy
-NzUxMDMxOF19
+eyJoaXN0b3J5IjpbMTc5ODI3MzU0MywtMjM3MTcyNjYsLTE3Mj
+YzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgy
+MjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NC
+wtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAw
+OTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OT
+MxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwyMDUyODAzMzYsLTY2
+NDQwNzM0N119
 -->
