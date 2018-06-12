@@ -79,16 +79,16 @@ Use pooling approach for Scroll Views for cases like leaderboards or any long li
 19. **Active or Inactive? Your teammate doesn't know** </br>
 Frequently, the logic of the game assumes that some UI is turned on before the start, some appears while the user is interacting with the game/app and some should only appear seldom.
 
-Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given large enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time wasted.
+Make sure that the states for UI elements are not dependent on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given large enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time wasted.
 ## Before you go
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTA1MDgwMSwtMTAxODQxMDgyMCwtMj
-M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
-NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
-wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
-OTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5OD
-MwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwy
-MDUyODAzMzZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTk1NTQ0OTUsLTEwMTg0MTA4MjAsLT
+IzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2
+MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MT
+AsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5Miwt
+MTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OT
+gzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUs
+MjA1MjgwMzM2XX0=
 -->
