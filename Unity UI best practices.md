@@ -1,7 +1,6 @@
 
 # Unity UI best practices
 ## General
-### Naming
 1. __Name UI elements sensibly__ </br>
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized using an empty gameObject, with a consistent name, for instance “Content”.
@@ -52,11 +51,11 @@ Elements like Input Field, Slider or ScrollBar, **by default** should behave sim
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0ODI1MDE3LC00NzM1NTkzMTUsMjQ1MT
-c2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcs
-MjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OT
-U3ODY5LC05ODE1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4
-LC0xNjMyMzEwMzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3Nz
-YxNzY2MjcsMjk5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQy
-MzVdfQ==
+eyJoaXN0b3J5IjpbMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NT
+E3Njk1NiwyMDI4NTE3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3
+LDIwMjc1MTAzMTgsODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NT
+k1Nzg2OSwtOTgxNTYzMjUyLDg5NzIwODQ2NywtMTUyMjExNjcz
+OCwtMTYzMjMxMDM2LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNz
+c2MTc2NjI3LDI5OTg3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0
+MjM1XX0=
 -->
