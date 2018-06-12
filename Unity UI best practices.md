@@ -76,14 +76,14 @@ Do not use alpha adjustment as a way to hide parts or whole UIs. If any element 
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behaviour of element-heavy UI objects. For specific pulling techniques visit [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
 19. **Active or Inactive? Your team mate doesn't know** </br>
-Frequently, the logic of the game assumes that some UI is turned on on start, some appears while the user is interacting with the game/app and some should only appear seldom.
-Make sure that the states for UI elements are not depand
+Frequently, the logic of the game assumes that some UI is turned on on start, some appears while the user is interacting with the game/app and some should only appear seldom.</br>
+Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A per
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAyMzU4MDgsLTg3Mjg3OTU4MCwtMz
-A3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAz
-ODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxODExMT
-YsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1NiwyMDI4
-NTE3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMT
-gsODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgx
-NTYzMjUyXX0=
+eyJoaXN0b3J5IjpbMTc5MDQwOTkyNCwtODcyODc5NTgwLC0zMD
+cyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4
+MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNi
+wyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1
+MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMxOC
+w4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05ODE1
+NjMyNTJdfQ==
 -->
