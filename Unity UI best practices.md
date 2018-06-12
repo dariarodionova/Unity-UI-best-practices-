@@ -20,7 +20,7 @@ If you have more than one canvas, make sure to utilize a preset for Canvas Scale
 4. **Adjust Match appropriately** </br>
 If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
 
-Here is an example how different Match setting effect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
+Here is an example of how different Match setting affect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
 
 ![Alt](match_example.png)
 
@@ -30,14 +30,14 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 ![Alt](rect_transform.png)
 
 6. **Keep Scale at 1** </br>
-The scale of the UI element should always be 1 by default, unless it is slightly changed by animation or a specific use case applies.
+The scale of the UI element should always be 1 by default unless it is slightly changed by animation or a specific use case applies.
 
 7. **Simple layout - Rect Transform, more than several elements - Layout Component** </br>
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen) and Layout Components for layouts with more than several elements or anything that should be stacked.
 ![Alt](layout_component.png)
 
 8. **Disable Raycast Target** </br>
-Disable Raycast Target property for all non-interactive elements straight after you have created them. Graphic Raycaster will perform intersection checks every frame for all elements that are marked as a Racast Target. In case of complex UI with inappropretely marked elements that  could seriously influence performance.
+Disable Raycast Target property for all non-interactive elements straight after you have created them. Graphic Raycaster will perform intersection checks every frame for all elements that are marked as a Raycast Target. In case of complex UI with inappropriately marked elements that  could seriously influence performance.
 ![Alt](raycast.png)
 
 9. **Use Presets** </br>
@@ -84,11 +84,11 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDUzMzM4MiwtMTAxODQxMDgyMCwtMj
-M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
-NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
-wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
-OTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5OD
-MwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwy
-MDUyODAzMzZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjM4NDE1OTEsLTEwMTg0MTA4MjAsLT
+IzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2
+MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MT
+AsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5Miwt
+MTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OT
+gzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUs
+MjA1MjgwMzM2XX0=
 -->
