@@ -81,13 +81,13 @@ Frequently, the logic of the game assumes that some UI is turned on on start, so
 Make sure that the states for UI elements are not dependend on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given big enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time lost.
 
 20.  **Your product can't end up being bad if you have perfected every step** </br>
-Just think about creating a great product won't necesseraly bri
+Just think about creating a great product won't necesseraly bring you there. Try increasing quality of every part, every step of your project and only then you can expec 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzAwOCwtMTM3NjE4MjIzNCwtODcyOD
-c5NTgwLC0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0
-MTMsLTg2MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLT
-YzNzE4MTExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2
-OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMj
-AyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3
-ODY5XX0=
+eyJoaXN0b3J5IjpbMTg1MzQxNDE2MiwtMTM3NjE4MjIzNCwtOD
+cyODc5NTgwLC0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQz
+ODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MD
+AsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1
+MTc2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczND
+csMjAyNzUxMDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1
+OTU3ODY5XX0=
 -->
