@@ -1,10 +1,10 @@
 
 # Unity UI best practices
-This list will walk you through UI-specific best practices that could be used when working with Unity engine and UI in general. Of course, situation vary from project to project and goal to goal, but general principles remain the same. This will also be very helpful if there is a team working on UI, including visual and game designers, programmers or any other stakeholders.
+This list will walk you through UI-specific best practices that could be used when working with Unity engine and UI in general. Of course, situation varies from project to project and goal to goal, but general principles remain the same. This will also be very helpful if there is a team working on UI, including visual and game designers, programmers or any other stakeholders.
 ## General
 1. __Name UI elements sensibly__ </br>
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
-Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized inside using an empty gameObject, with a consistent name, for instance “Content”.
+Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized inside using an empty gameObject, with a consistent name, for instance, “Content”.
 
 2. __Stick to it__ </br>
 Stick to whatever naming format you chose internally and follow it across all projects.
@@ -84,11 +84,11 @@ Make sure that the states for UI elements are not dependend on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necesseraly bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg0MTA4MjAsLTIzNzE3MjY2LC0xNz
-I2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2MDcyMywtMTM3NjE4
-MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MTAsLTE5NTE1MjE1Nz
-QsLTIwNjQzODk0MTMsLTg2MDM4MzI5MiwtMTkwMTM2ODUyLDEw
-MDk4Njg4MDAsLTYzNzE4MTExNiwyMDY1OTgzMDQyLC00NzM1NT
-kzMTUsMjQ1MTc2OTU2LDIwMjg1MTc4OTUsMjA1MjgwMzM2LC02
-NjQ0MDczNDddfQ==
+eyJoaXN0b3J5IjpbMTgxMDUzMzM4MiwtMTAxODQxMDgyMCwtMj
+M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
+NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
+wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
+OTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MTgxMTE2LDIwNjU5OD
+MwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYsMjAyODUxNzg5NSwy
+MDUyODAzMzZdfQ==
 -->
