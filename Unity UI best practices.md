@@ -21,7 +21,7 @@ If you have more than one canvas, make sure to utilize a preset for Canvas Scale
 4. **Adjust Match appropriately.**</br>
 If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
 
-Here is an example how different Match setting effect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape:
+Here is an example how different Match setting effect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
 
 ![Alt](match_example.png)
 
@@ -41,11 +41,11 @@ Use Rect Transform for creating very simple layouts (like anchoring individual e
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDQwNzM0NywyMDI3NTEwMzE4LDgxMz
-Q3OTA1NiwyMTIzNjAzMTIzLDEwNDU5NTc4NjksLTk4MTU2MzI1
-Miw4OTcyMDg0NjcsLTE1MjIxMTY3MzgsLTE2MzIzMTAzNiwtMT
-AyMjkwMjU0OCwxNTQwNzY4MjcxLDc3NjE3NjYyNywyOTk4NzEw
-MzAsLTIwMjk3Nzg3NTIsMTU1NzMzNDIzNSw5MDg3NzU4NzksLT
-E3ODMyMjY2MDksLTM4MTU4MjkyMSwxNDIxMDc2NTczLC0xMjM1
-ODExMDQ3XX0=
+eyJoaXN0b3J5IjpbMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNz
+UxMDMxOCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5
+LC05ODE1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNj
+MyMzEwMzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2
+MjcsMjk5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOT
+A4Nzc1ODc5LC0xNzgzMjI2NjA5LC0zODE1ODI5MjEsMTQyMTA3
+NjU3M119
 -->
