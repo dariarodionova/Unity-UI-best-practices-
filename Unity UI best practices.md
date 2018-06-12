@@ -45,17 +45,18 @@ Disable Raycast Target property for all non-interactive elements straight after 
 9. **Use Presets** </br>
 Starting from Unity 2018, usse presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
-10. Check 
+10. **Use Unity Editor as an inspiration** </br>
+Elements like input field or scroll, **by default** should behave similarly to those in Unity Editor.
  
 ## Design
 ## Programming
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1NzQ5MjM5LDI0NTE3Njk1NiwyMDI4NT
-E3ODk1LDIwNTI4MDMzNiwtNjY0NDA3MzQ3LDIwMjc1MTAzMTgs
-ODEzNDc5MDU2LDIxMjM2MDMxMjMsMTA0NTk1Nzg2OSwtOTgxNT
-YzMjUyLDg5NzIwODQ2NywtMTUyMjExNjczOCwtMTYzMjMxMDM2
-LC0xMDIyOTAyNTQ4LDE1NDA3NjgyNzEsNzc2MTc2NjI3LDI5OT
-g3MTAzMCwtMjAyOTc3ODc1MiwxNTU3MzM0MjM1LDkwODc3NTg3
-OV19
+eyJoaXN0b3J5IjpbLTExMzEzMTExMTUsMjQ1MTc2OTU2LDIwMj
+g1MTc4OTUsMjA1MjgwMzM2LC02NjQ0MDczNDcsMjAyNzUxMDMx
+OCw4MTM0NzkwNTYsMjEyMzYwMzEyMywxMDQ1OTU3ODY5LC05OD
+E1NjMyNTIsODk3MjA4NDY3LC0xNTIyMTE2NzM4LC0xNjMyMzEw
+MzYsLTEwMjI5MDI1NDgsMTU0MDc2ODI3MSw3NzYxNzY2MjcsMj
+k5ODcxMDMwLC0yMDI5Nzc4NzUyLDE1NTczMzQyMzUsOTA4Nzc1
+ODc5XX0=
 -->
