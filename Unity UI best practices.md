@@ -29,7 +29,7 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 
 ![Alt](rect_transform.png)
 
-6. **
+6. **Place pivot 
 
 6. **Keep Scale at 1** </br>
 The scale of the UI element should always be 1 by default unless it is slightly changed by animation or a specific use case applies.
@@ -86,11 +86,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMTcwMjgyLDE0MTQyMDU1ODIsLTEwMT
-g0MTA4MjAsLTIzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0
-NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC
-0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2
-MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MT
-ExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIw
-Mjg1MTc4OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NTA4NjAxOTEsMTQxNDIwNTU4MiwtMT
+AxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEw
+MDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1OD
+AsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywt
+ODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MT
+gxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYs
+MjAyODUxNzg5NV19
 -->
