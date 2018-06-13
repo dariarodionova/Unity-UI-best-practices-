@@ -29,37 +29,37 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 
 ![Alt](rect_transform.png)
 
-6. **Place pivot 
+6. **Think first, place pivot point after**</br>
 
-6. **Keep Scale at 1** </br>
+7. **Keep Scale at 1** </br>
 The scale of the UI element should always be 1 by default unless it is slightly changed by animation or a specific use case applies.
 
-7. **Simple layout - Rect Transform, more than several elements - Layout Component** </br>
+8. **Simple layout - Rect Transform, more than several elements - Layout Component** </br>
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen) and Layout Components for layouts with more than several elements or anything that should be stacked.
 ![Alt](layout_component.png)
 
-8. **Disable Raycast Target** </br>
+9. **Disable Raycast Target** </br>
 Disable Raycast Target property for all non-interactive elements straight after you have created them. Graphic Raycaster will perform intersection checks every frame for all elements that are marked as a Raycast Target. In case of complex UI with inappropriately marked elements that  could seriously influence performance.
 ![Alt](raycast.png)
 
-9. **Use Presets** </br>
+10. **Use Presets** </br>
 Starting with Unity 2018, use presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
- 10. **Avoid Best Fit** </br>
+11. **Avoid Best Fit** </br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and performance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
  
-11. **Use TextMesh Pro component instead of Text** </br>
+12. **Use TextMesh Pro component instead of Text** </br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. TextMesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
 
-12. **Do not use textures when they are not needed** </br>
+13. **Do not use textures when they are not needed** </br>
 For the UI elements that could be build from white rectangles, do not use any textures, use Image component with an empty source instead. ![Alt](empty_image.png)
 
 ## Design
 
-13. **Use Unity Editor as an inspiration** </br>
+14. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar **by default** should behave similarly to those in Unity Editor.
 
-14. **Make Debug UI discreet** </br>
+15. **Make Debug UI discreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 
 15. **Keep uniformly colored textures white** </br>
@@ -86,11 +86,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4NjAxOTEsMTQxNDIwNTU4MiwtMT
-AxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEw
-MDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1OD
-AsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywt
-ODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAwOTg2ODgwMCwtNjM3MT
-gxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OTMxNSwyNDUxNzY5NTYs
-MjAyODUxNzg5NV19
+eyJoaXN0b3J5IjpbMTg2OTg4OTc3MCwxNDE0MjA1NTgyLC0xMD
+E4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAw
+NDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MC
+wtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04
+NjAzODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxOD
+ExMTYsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1Niwy
+MDI4NTE3ODk1XX0=
 -->
