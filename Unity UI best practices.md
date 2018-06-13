@@ -2,13 +2,14 @@
 # Unity UI best practices
 This list will walk you through UI-specific best practices that could be used when working with Unity engine and UI in general. Of course, the situation varies from project to project and goal to goal, but general principles remain the same. This will also be very helpful if there is a team working on UI, including visual and game designers, programmers or any other stakeholders.
 ## General
-1. __Name UI elements sensibly__ </br>
+1. **Name UI elements sensibly** </br>
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.
 Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should be organized inside using an empty gameObject, with a consistent name, for instance, “Content”.
 
-2. __Stick to it__ </br>
+2. **Stick to it** </br>
 Stick to whatever naming format you chose internally and follow it across all projects.
 
+3. A list of 
 ![Alt](element_naming.png)
 ## Components
 3. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
@@ -71,7 +72,7 @@ Great typography is a must for achieving a professional look for your game/app. 
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
-17. **A prefab for each UI entity
+17.  **A prefab for each UI entity - easier collaboration**
 
 ## Programming
 
@@ -90,11 +91,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDgwMTMzMSwxNDE0MjA1NTgyLC0xMD
-E4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAw
-NDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MC
-wtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04
-NjAzODMyOTIsLTE5MDEzNjg1MiwxMDA5ODY4ODAwLC02MzcxOD
-ExMTYsMjA2NTk4MzA0MiwtNDczNTU5MzE1LDI0NTE3Njk1Niwy
-MDI4NTE3ODk1XX0=
+eyJoaXN0b3J5IjpbMTExNzU2Nzc3LDE0MTQyMDU1ODIsLTEwMT
+g0MTA4MjAsLTIzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0
+NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC
+0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2
+MDM4MzI5MiwtMTkwMTM2ODUyLDEwMDk4Njg4MDAsLTYzNzE4MT
+ExNiwyMDY1OTgzMDQyLC00NzM1NTkzMTUsMjQ1MTc2OTU2LDIw
+Mjg1MTc4OTVdfQ==
 -->
