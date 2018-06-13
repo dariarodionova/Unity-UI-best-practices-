@@ -21,7 +21,7 @@ If you have more than one canvas, make sure to utilize a preset for Canvas Scale
 
 5. **Adjust Match appropriately** </br>
 If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
-	Here is an example of how different Match setting affect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
+Here is an example of how different Match setting affect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
 
 ![Alt](match_example.png)
 
@@ -30,7 +30,7 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 
 ![Alt](rect_transform.png)
 
-6. **Think first, place pivot point after**</br>
+7. **Think first, place pivot point after**</br>
 It is very confusing if an element is positioned with an inappropriately placed pivot point. Depending on the location of the element on the screen, adjust pivot point location to keep the element's position predictable when the resolution changes.
 
 8. **Keep Scale at 1** </br>
@@ -58,40 +58,39 @@ For the UI elements that could be build from white rectangles, do not use any te
 
 ## Design
 
-14. **Use Unity Editor as an inspiration** </br>
+15. **Use Unity Editor as an inspiration** </br>
 Elements like Input Field, Slider or ScrollBar **by default** should behave similarly to those in Unity Editor.
 
-15. **Make Debug UI discreet** </br>
+16. **Make Debug UI discreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 
-16. **Keep uniformly colored textures white** </br>
+17. **Keep uniformly colored textures white** </br>
 All uniformly colored textures should be white and colored in the Image  component. This promotes wise use of resources.
 
-16. **Strive for good typography** </br> 
+18. **Strive for good typography** </br> 
 Great typography is a must for achieving a professional look for your game/app. Use high-quality fonts and make sure that there are only one or two fonts used. </br>
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
-17.  **A prefab for each UI entity - easier collaboration**
+19.  **A prefab for each UI entity - easier collaboration**
 
 ## Programming
 
-17. **No hiding in alpha** </br>
+20. **No hiding in alpha** </br>
 Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such elements for the period of inactivity.
 
-18. **Pool that scroll** </br>
+21. **Pool that scroll** </br>
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behavior of element-heavy UI objects. For specific pulling techniques visit the [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
-19. **Active or Inactive? Your teammate doesn't know** </br>
+22. **Active or Inactive? Your teammate doesn't know** </br>
 Frequently, the logic of the game assumes that some UI is turned on before the start, some appears while the user is interacting with the game/app and some should only appear seldom.
-
 Make sure that the states for UI elements are not dependent on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given large enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time wasted.
 
 ## Before you go
-20.  **Your product can't end up bad if you have perfected every step** </br>
+23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NTQzMzQ1LDE0MTQyMDU1ODIsLTEwMT
+eyJoaXN0b3J5IjpbLTQzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMT
 g0MTA4MjAsLTIzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0
 NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC
 0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2
