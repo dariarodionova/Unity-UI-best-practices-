@@ -71,6 +71,8 @@ Great typography is a must for achieving a professional look for your game/app. 
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
+17. **A prefab for each UI entity
+
 ## Programming
 
 17. **No hiding in alpha** </br>
@@ -83,11 +85,12 @@ Use pooling approach for Scroll Views for cases like leaderboards or any long li
 Frequently, the logic of the game assumes that some UI is turned on before the start, some appears while the user is interacting with the game/app and some should only appear seldom.
 
 Make sure that the states for UI elements are not dependent on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given large enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time wasted.
+
 ## Before you go
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzcyNjQ1NywxNDE0MjA1NTgyLC0xMD
+eyJoaXN0b3J5IjpbMTAwMDgwMTMzMSwxNDE0MjA1NTgyLC0xMD
 E4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAw
 NDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MC
 wtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04
