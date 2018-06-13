@@ -8,24 +8,24 @@ Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should 
 
 2. **Stick to it** </br>
 Stick to whatever naming format you chose internally and follow it across all projects.
-
-3. A list of 
 ![Alt](element_naming.png)
+
+3. **A list of common resolutions is your best friend**
+
 ## Components
-3. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
+4. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
 If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
 
 ![Alt](canvas_scaler.png)
 
 
-4. **Adjust Match appropriately** </br>
+5. **Adjust Match appropriately** </br>
 If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
-
-Here is an example of how different Match setting affect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
+	Here is an example of how different Match setting affect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
 
 ![Alt](match_example.png)
 
-5. **Keep values in Rect Transform clean** </br>
+6. **Keep values in Rect Transform clean** </br>
 Make sure that all values in Rect Transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals.
 
 ![Alt](rect_transform.png)
@@ -91,7 +91,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 20.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzU2Nzc3LDE0MTQyMDU1ODIsLTEwMT
+eyJoaXN0b3J5IjpbODE5NTQzMzQ1LDE0MTQyMDU1ODIsLTEwMT
 g0MTA4MjAsLTIzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0
 NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC
 0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2
