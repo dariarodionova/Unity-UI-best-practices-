@@ -78,7 +78,7 @@ As a rule of a thumb, if you are using one font, you can use up to 3 different s
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
 19.  **A prefab for each UI entity means easier collaboration** </br>
-If the Unity version you are using does not support nested prefabs, avoid having one humongous prefab for the UI. Instead, try to separate each entity (or whatever fits better logically) of the UI into separate prefabs. This way, if several people are working on it, it will be easier to avoid conflict when committing. It is also easier to revert changes of specific UI parts if needed.
+If the Unity version you are using does not support nested prefabs, avoid having one humongous prefab for the UI. Instead, try to separate each entity (or whatever fits better logically) of the UI into separate prefabs. This way, if several people are working on it, it will be easier to avoid conflicts when committing. It is also easier to revert changes of specific UI parts if needed.
 ## Programming
 
 20. **No hiding in alpha** </br>
@@ -95,7 +95,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODQyNzY4LDExMDc4NjI1NjgsMTIzMz
+eyJoaXN0b3J5IjpbNTMwNzg2ODkzLDExMDc4NjI1NjgsMTIzMz
 MzNDc1NCwxODIyNzY3NTM4LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0
 MCwtNDM2MjYzNjYsMTQxNDIwNTU4MiwtMTAxODQxMDgyMCwtMj
 M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
