@@ -59,12 +59,12 @@ Starting with Unity 2018, use presets for as many common components as possible.
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. TextMesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
 
 14. **Do not use textures when they are not needed** </br>
-For the UI elements that could be build from white rectangles, do not use any textures, use Image component with an empty source instead. ![Alt](empty_image.png)
+For the UI elements that could be built from white rectangles, do not use any textures, use Image component with an empty source instead. ![Alt](empty_image.png)
 
 ## Design
 
-15. **Use Unity Editor as an inspiration** </br>
-Elements like Input Field, Slider or ScrollBar **by default** should behave similarly to those in Unity Editor.
+15. **Use Unity Editor as inspiration** </br>
+Elements like Input Field, Slider or ScrollBar should, **by default**, behave similarly to those in Unity Editor.
 
 16. **Make Debug UI discreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
@@ -77,8 +77,8 @@ Great typography is a must for achieving a professional look for your game/app. 
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
-19.  **A prefab for each UI entity - easier collaboration** </br>
-If Unity version that you are using does not support nested prefabs, avoid having one humongous prefab for the UI. Instead, try to separate each entity (or whatever fits better logically) of the UI into separate prefabs. This way, if several people are working on it, it will be easier to avoid conflict when committing. It is also easier to revert changes of specific UI parts if needed.
+19.  **A prefab for each UI entity means easier collaboration** </br>
+If the Unity version you are using does not support nested prefabs, avoid having one humongous prefab for the UI. Instead, try to separate each entity (or whatever fits better logically) of the UI into separate prefabs. This way, if several people are working on it, it will be easier to avoid conflict when committing. It is also easier to revert changes of specific UI parts if needed.
 ## Programming
 
 20. **No hiding in alpha** </br>
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTM2NzEyNCwxMTA3ODYyNTY4LDEyMz
-MzMzQ3NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEy
-NDAsLTQzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLT
-IzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2
-MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MT
-AsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5Miwt
-MTkwMTM2ODUyXX0=
+eyJoaXN0b3J5IjpbMzQzODQyNzY4LDExMDc4NjI1NjgsMTIzMz
+MzNDc1NCwxODIyNzY3NTM4LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0
+MCwtNDM2MjYzNjYsMTQxNDIwNTU4MiwtMTAxODQxMDgyMCwtMj
+M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
+NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
+wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
+OTAxMzY4NTJdfQ==
 -->
