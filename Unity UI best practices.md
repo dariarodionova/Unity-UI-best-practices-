@@ -23,8 +23,8 @@ If you have more than one canvas, make sure to utilize a preset for the Canvas S
 
 
 5. **Adjust Match appropriately** </br>
-If target platform has many possible resolutions that vary in the orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
-Here is an example of how different Match setting affect a **centered 1000*800 rectangle** (that could be an inventory menu in a PC game that usually has a landscape-aligned shape):
+If target platform has many possible resolutions that vary in orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
+Here is an example of how different Match settings affect a **centered 1000*800 rectangle** (such as an inventory menu in a PC game which usually has a landscape-aligned shape):
 
 ![Alt](match_example.png)
 
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg4OTcyNTAsMTEwNzg2MjU2OCwxMj
-MzMzM0NzU0LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgx
-MjQwLC00MzYyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC
-0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEy
-NjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3ND
-EwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIs
-LTE5MDEzNjg1Ml19
+eyJoaXN0b3J5IjpbMTM5MTM2NzEyNCwxMTA3ODYyNTY4LDEyMz
+MzMzQ3NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEy
+NDAsLTQzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLT
+IzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2
+MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MT
+AsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5Miwt
+MTkwMTM2ODUyXX0=
 -->
