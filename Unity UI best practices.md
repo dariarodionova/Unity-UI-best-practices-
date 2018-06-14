@@ -10,9 +10,10 @@ Every separate UI entity (for ex. Health Bar, Ammo counter, Stamina Bar) should 
 Stick to whatever naming format you chose internally and follow it across all projects.
 ![Alt](element_naming.png)
 
-3. **A list of common resolutions is your best friend**
+3. **A list of common resolutions is your best friend** </br>
 Create a list of common resolutions of the platform that you are targeting. Constantly check newly added UI using this list to make sure that everything scales correctly. 
 ![Alt](resolutions.png)
+
 ## Components
 4. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
 If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
@@ -91,7 +92,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc5OTE5MywxMTQzNDgxMjQwLC00Mz
+eyJoaXN0b3J5IjpbMTY5MjE4MjcwOCwxMTQzNDgxMjQwLC00Mz
 YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
 NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLT
 EzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUx
