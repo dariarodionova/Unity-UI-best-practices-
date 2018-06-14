@@ -75,7 +75,7 @@ Great typography is a must for achieving a professional look for your game/app. 
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
-19.  **A prefab for each UI entity - easier collaboration**
+19.  **A prefab for each UI entity - easier collaboration** </br>
 If Unity version that you are using does not support nested prefabs, avoid having one humongous prefab for the UI. Instead, try to separate each entity (or whatever fits better logically) of the UI into separate prefabs. This way, if several people are working on it, it will be easier to avoid conflict when committing. It is also easier to revert changes of specific UI parts if needed.
 ## Programming
 
@@ -93,7 +93,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzM3Mjc4NywyMDAyNTI3NzQ1LDExND
+eyJoaXN0b3J5IjpbMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExND
 M0ODEyNDAsLTQzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4
 MjAsLTIzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMT
 M5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcy
