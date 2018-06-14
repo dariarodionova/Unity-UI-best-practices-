@@ -1,6 +1,6 @@
 
 # Unity UI best practices
-This list will walk you through UI-specific best practices that could be used when working with Unity engine and UI in general. Of course, the situation varies from project to project and goal to goal, but general principles remain the same. This will also be very helpful if there is a team working on UI, including visual and game designers, programmers or any other stakeholders.
+This list will walk you through UI-specific best practices when working with Unity engine and UI in general. Of course, the situations vary from project to project and goal to goal, but general principles remain the same. This will also be very helpful if there is a team working on UI, including visual and game designers, programmers and any other stakeholders.
 ## General
 1. **Name UI elements sensibly** </br>
 Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.</br>
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzg2MjU2OCwxMjMzMzM0NzU0LDE4Mj
-I3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00MzYyNjM2
-NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2NiwtMT
-cyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLTEzNzYx
-ODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUxNTIxNT
-c0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEzNjg1Miwx
-MDA5ODY4ODAwXX0=
+eyJoaXN0b3J5IjpbODM1MzI2MDUzLDExMDc4NjI1NjgsMTIzMz
+MzNDc1NCwxODIyNzY3NTM4LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0
+MCwtNDM2MjYzNjYsMTQxNDIwNTU4MiwtMTAxODQxMDgyMCwtMj
+M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
+NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
+wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
+OTAxMzY4NTJdfQ==
 -->
