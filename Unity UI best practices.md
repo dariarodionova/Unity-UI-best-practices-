@@ -76,7 +76,7 @@ As a rule of a thumb, if you are using one font, you can use up to 3 different s
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
 19.  **A prefab for each UI entity - easier collaboration**
-
+If Unity version that you are using does not support nested prefabs 
 ## Programming
 
 20. **No hiding in alpha** </br>
@@ -93,7 +93,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDE4MTE1NCwxMTQzNDgxMjQwLC00Mz
+eyJoaXN0b3J5IjpbMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00Mz
 YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
 NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLT
 EzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUx
