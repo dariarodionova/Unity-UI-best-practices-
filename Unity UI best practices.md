@@ -11,6 +11,7 @@ Stick to whatever naming format you chose internally and follow it across all pr
 ![Alt](element_naming.png)
 
 3. **A list of common resolutions is your best friend**
+Create a list of common resolutions of the platform that you are targeting. Constantly check newly added UI using this list to make sure that everything scales correctly. 
 
 ## Components
 4. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
@@ -90,11 +91,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzQ4MTI0MCwtNDM2MjYzNjYsMTQxND
-IwNTU4MiwtMTAxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEy
-OTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC
-04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMjA2
-NDM4OTQxMywtODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAwOTg2OD
-gwMCwtNjM3MTgxMTE2LDIwNjU5ODMwNDIsLTQ3MzU1OTMxNSwy
-NDUxNzY5NTZdfQ==
+eyJoaXN0b3J5IjpbLTg5ODU2MjUzOCwxMTQzNDgxMjQwLC00Mz
+YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
+NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLT
+EzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUx
+NTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEzNj
+g1MiwxMDA5ODY4ODAwLC02MzcxODExMTYsMjA2NTk4MzA0Miwt
+NDczNTU5MzE1XX0=
 -->
