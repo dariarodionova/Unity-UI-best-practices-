@@ -12,6 +12,7 @@ Stick to whatever naming format you chose internally and follow it across all pr
 
 3. **A list of common resolutions is your best friend** </br>
 Create a list of common resolutions of the platform that you are targeting. Constantly check newly added UI using this list to make sure that everything scales correctly. 
+
 ![Alt](resolutions.png)
 
 ## Components
@@ -92,7 +93,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjE4MjcwOCwxMTQzNDgxMjQwLC00Mz
+eyJoaXN0b3J5IjpbMTQyNDE4MTE1NCwxMTQzNDgxMjQwLC00Mz
 YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
 NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLT
 EzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUx
