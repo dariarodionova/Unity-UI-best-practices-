@@ -34,7 +34,7 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 ![Alt](rect_transform.png)
 
 7. **Think first, place pivot point after**</br>
-It is very confusing if an element is positioned with an inappropriately placed pivot point. Depending on the location of the element on the screen, adjust pivot point location to keep the element's position predictable when the resolution changes.
+It is very confusing if an element is positioned with an inappropriately placed pivot point. Depending on the location of the element on the screen and his anchor point, adjust pivot point location to keep the element's position predictable when the resolution changes. This
 
 ![Alt](pivot.png)
 
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzMzNDc1NCwxODIyNzY3NTM4LDIwMD
-I1Mjc3NDUsMTE0MzQ4MTI0MCwtNDM2MjYzNjYsMTQxNDIwNTU4
-MiwtMTAxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEyOTAsOD
-YwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC04NzI4
-Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMjA2NDM4OT
-QxMywtODYwMzgzMjkyLC0xOTAxMzY4NTIsMTAwOTg2ODgwMCwt
-NjM3MTgxMTE2XX0=
+eyJoaXN0b3J5IjpbLTI2MDM0ODc0MiwxMjMzMzM0NzU0LDE4Mj
+I3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00MzYyNjM2
+NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2NiwtMT
+cyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLTEzNzYx
+ODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUxNTIxNT
+c0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIsLTE5MDEzNjg1Miwx
+MDA5ODY4ODAwXX0=
 -->
