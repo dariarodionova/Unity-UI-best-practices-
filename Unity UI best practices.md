@@ -17,7 +17,7 @@ Create a list of common resolutions of the platform that you are targeting. Cons
 
 ## Components
 4. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
-If you have more than one canvas, make sure to utilize a preset for Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
+If you have more than one canvas, make sure to utilize a preset for the Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
 
 ![Alt](canvas_scaler.png)
 
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzM2Mzk4MSwxMTA3ODYyNTY4LDEyMz
-MzMzQ3NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEy
-NDAsLTQzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLT
-IzNzE3MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2
-MDcyMywtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MT
-AsLTE5NTE1MjE1NzQsLTIwNjQzODk0MTMsLTg2MDM4MzI5Miwt
-MTkwMTM2ODUyXX0=
+eyJoaXN0b3J5IjpbLTE1NTg4OTcyNTAsMTEwNzg2MjU2OCwxMj
+MzMzM0NzU0LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgx
+MjQwLC00MzYyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC
+0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEy
+NjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3ND
+EwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04NjAzODMyOTIs
+LTE5MDEzNjg1Ml19
 -->
