@@ -56,17 +56,17 @@ Disable Raycast Target property for all non-interactive elements straight after 
 Starting with Unity 2018, use [presets](https://docs.unity3d.com/2018.2/Documentation/Manual/Presets.html) for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
 13. **Avoid Best Fit** </br>
- If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and performance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
+ If using Unity UI, avoid using Best Fit functionality because it is **bad** both in terms of **design practices** (limited number of font sizes rule) and **performance**. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
  
 14. **Use TextMesh Pro component instead of Text** </br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. TextMesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
 
-14. **Do not use textures when they are not needed** </br>
+15. **Do not use textures when they are not needed** </br>
 For the UI elements that could be built from white rectangles, do not use any textures, use Image component with an empty source instead. ![Alt](empty_image.png)
 
 ## Design
 
-15. **Use Unity Editor as inspiration** </br>
+16. **Use Unity Editor as inspiration** </br>
 Elements like Input Field, Slider or ScrollBar should, **by default**, behave similarly to those in Unity Editor.
 
 16. **Make Debug UI discreet** </br>
@@ -98,11 +98,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTY5OTc2MSwxMjg0NDY1MzUzLC03ND
-cwMjY3MjQsNTMwNzg2ODkzLDExMDc4NjI1NjgsMTIzMzMzNDc1
-NCwxODIyNzY3NTM4LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0MCwtND
-M2MjYzNjYsMTQxNDIwNTU4MiwtMTAxODQxMDgyMCwtMjM3MTcy
-NjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC
-0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1
-MTUyMTU3NF19
+eyJoaXN0b3J5IjpbLTIwNDY2OTAyOTEsMTI4NDQ2NTM1MywtNz
+Q3MDI2NzI0LDUzMDc4Njg5MywxMTA3ODYyNTY4LDEyMzMzMzQ3
+NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEyNDAsLT
+QzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLTIzNzE3
+MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2MDcyMy
+wtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MTAsLTE5
+NTE1MjE1NzRdfQ==
 -->
