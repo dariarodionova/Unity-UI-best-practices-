@@ -80,14 +80,15 @@ Great typography is a must for achieving a professional look for your game/app. 
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
 
-19.  **A prefab for each UI entity means easier collaboration** </br>
+20.  **A prefab for each UI entity means easier collaboration** </br>
 If the Unity version you are using does not support nested prefabs, avoid having one humongous godlike prefab for the UI. Instead, try to separate each entity (or whatever fits better logically) of the UI into separate prefabs. This way, if several people are working on it, it will be easier to avoid conflicts when committing. It is also easier to revert changes of specific UI parts if needed.
+
 ## Programming
 
-20. **No hiding in alpha** </br>
+21. **No hiding in alpha** </br>
 Do not use alpha adjustment as a way to hide parts or whole UIs. If any element is invisible but his state is still set to **active**, it will take part in rendering process and use computational resources. Make sure to disable such elements for the period of inactivity.
 
-21. **Pool that scroll** </br>
+22. **Pool that scroll** </br>
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behavior of element-heavy UI objects. For specific pulling techniques visit the [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
 22. **Active or Inactive? Your teammate doesn't know** </br>
@@ -98,7 +99,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY4MDU2MzksMTI4NDQ2NTM1MywtNz
+eyJoaXN0b3J5IjpbLTE2NTI1MjU1MzksMTI4NDQ2NTM1MywtNz
 Q3MDI2NzI0LDUzMDc4Njg5MywxMTA3ODYyNTY4LDEyMzMzMzQ3
 NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEyNDAsLT
 QzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLTIzNzE3
