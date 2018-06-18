@@ -4,7 +4,7 @@ This list will walk you through UI-specific best practices when working with Uni
 ## General
 1. **Name UI elements sensibly** </br>
 Just like objects in the scene or files in the hierarchy, UI elements should be **named sensibly** with an indicator of the element type.</br>
-Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar) should be organized inside an empty gameObject, with a consistent name, “Content” for instance.
+Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar) should be organized inside an empty gameObject. Groups of entities that  with a consistent name, “Content” for instance.
 
 2. **Stick to it** </br>
 Stick to whatever naming format you chose internally and follow it across all projects.
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzAyNjcyNCw1MzA3ODY4OTMsMTEwNz
-g2MjU2OCwxMjMzMzM0NzU0LDE4MjI3Njc1MzgsMjAwMjUyNzc0
-NSwxMTQzNDgxMjQwLC00MzYyNjM2NiwxNDE0MjA1NTgyLC0xMD
-E4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAw
-NDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MC
-wtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04
-NjAzODMyOTJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTE2NTA4NjMsLTc0NzAyNjcyNCw1Mz
+A3ODY4OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0LDE4MjI3Njc1
+MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00MzYyNjM2NiwxND
+E0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4
+MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMz
+QsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0y
+MDY0Mzg5NDEzXX0=
 -->
