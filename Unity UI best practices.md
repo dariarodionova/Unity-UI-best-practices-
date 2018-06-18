@@ -9,12 +9,12 @@ Just like objects in the scene or files in the hierarchy, UI elements should be 
 Stick to whatever naming format you chose internally and follow it across all projects.
 
 3. **Organize smarter** </br>
-Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) should be organized inside an empty gameObject. Groups of entities that share a visibility state should also be put into a empty gameObject container with a consistent name, “Content” for instance. This is useful when a group of entities should be turned on or off according to the logic of the game. </br>
+Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) can be organized inside an empty gameObject. Groups of entities that share a visibility state could also be put into a empty gameObject container with a consistent name, “Content” for instance. This is useful when a group of entities should be turned on or off according to the logic of the game. </br>
 Create and use such containers **carefully** because too many unnecessary objects will make the hierarchy overly complicated and leave a mark on the performance.
 ![Alt](element_naming.png)
 
 4. **A list of common resolutions is your best friend** </br>
-Create a list of common resolutions of the platform that you are targeting. Constantly check newly added UI using this list to make sure that everything scales correctly. 
+Create a list of common resolutions of the platform that you are targeting. Constantly **check newly added UI** using this list to make sure that everything scales correctly. 
 
 ![Alt](resolutions.png)
 
@@ -98,11 +98,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDQ2NTM1MywtNzQ3MDI2NzI0LDUzMD
-c4Njg5MywxMTA3ODYyNTY4LDEyMzMzMzQ3NTQsMTgyMjc2NzUz
-OCwyMDAyNTI3NzQ1LDExNDM0ODEyNDAsLTQzNjI2MzY2LDE0MT
-QyMDU1ODIsLTEwMTg0MTA4MjAsLTIzNzE3MjY2LC0xNzI2Mzgx
-MjkwLDg2MDcxMDA0NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNC
-wtODcyODc5NTgwLC0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIw
-NjQzODk0MTNdfQ==
+eyJoaXN0b3J5IjpbMTg3NjcyOTMwLDEyODQ0NjUzNTMsLTc0Nz
+AyNjcyNCw1MzA3ODY4OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0
+LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00Mz
+YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
+NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLT
+EzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUx
+NTIxNTc0XX0=
 -->
