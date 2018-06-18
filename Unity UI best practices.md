@@ -91,19 +91,19 @@ Do not use alpha adjustment as a way to hide parts or whole UIs. If any element 
 22. **Pool that scroll** </br>
 Use pooling approach for Scroll Views for cases like leaderboards or any long lists. This will ensure smooth loading, updating and behavior of element-heavy UI objects. For specific pulling techniques visit the [official page.](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls)
 
-22. **Active or Inactive? Your teammate doesn't know** </br>
+23. **Active or Inactive? Your teammate doesn't know** </br>
 Frequently, the logic of the game assumes that some UI is turned on before the start, some appears while the user is interacting with the game/app and some should only appear seldom.</br>
 Make sure that the states for UI elements are not dependent on the last state it was left at in the editor. A designer might not know that for the correct work of the game this, that and that elements on the canvas should be turned on and those other twenty-five turned off. This situation is prone to human error, because even a programmer himself, given large enough number of elements can forget what should be in which state. This practice leads to unnecessary bugs and a lot of time wasted.
 
 ## Before you go
-23.  **Your product can't end up bad if you have perfected every step** </br>
+24.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI1MjU1MzksMTI4NDQ2NTM1MywtNz
-Q3MDI2NzI0LDUzMDc4Njg5MywxMTA3ODYyNTY4LDEyMzMzMzQ3
-NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEyNDAsLT
-QzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLTIzNzE3
-MjY2LC0xNzI2MzgxMjkwLDg2MDcxMDA0NCwtMTM5MTI2MDcyMy
-wtMTM3NjE4MjIzNCwtODcyODc5NTgwLC0zMDcyNDc0MTAsLTE5
-NTE1MjE1NzRdfQ==
+eyJoaXN0b3J5IjpbMTgzNzY3NDU1LC0xNjUyNTI1NTM5LDEyOD
+Q0NjUzNTMsLTc0NzAyNjcyNCw1MzA3ODY4OTMsMTEwNzg2MjU2
+OCwxMjMzMzM0NzU0LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMT
+QzNDgxMjQwLC00MzYyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEw
+ODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLT
+EzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3
+MjQ3NDEwXX0=
 -->
