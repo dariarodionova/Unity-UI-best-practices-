@@ -3,7 +3,7 @@
 This list will walk you through UI-specific best practices when working with Unity engine and UI in general. Of course, the situations vary from project to project and goal to goal, but general principles remain the same. This will also be very helpful if there is a team working on UI, including visual and game designers, programmers and any other stakeholders.
 ## General
 1. **Name UI elements sensibly** </br>
-Just like objects in the scene, UI elements should be **named sensibly** with an indicator of the element type.</br>
+Just like objects in the scene or files in the hierarchy, UI elements should be **named sensibly** with an indicator of the element type.</br>
 Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar) should be organized inside an empty gameObject, with a consistent name, “Content” for instance.
 
 2. **Stick to it** </br>
@@ -95,11 +95,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNzg2ODkzLDExMDc4NjI1NjgsMTIzMz
-MzNDc1NCwxODIyNzY3NTM4LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0
-MCwtNDM2MjYzNjYsMTQxNDIwNTU4MiwtMTAxODQxMDgyMCwtMj
-M3MTcyNjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYw
-NzIzLC0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMC
-wtMTk1MTUyMTU3NCwtMjA2NDM4OTQxMywtODYwMzgzMjkyLC0x
-OTAxMzY4NTJdfQ==
+eyJoaXN0b3J5IjpbLTc0NzAyNjcyNCw1MzA3ODY4OTMsMTEwNz
+g2MjU2OCwxMjMzMzM0NzU0LDE4MjI3Njc1MzgsMjAwMjUyNzc0
+NSwxMTQzNDgxMjQwLC00MzYyNjM2NiwxNDE0MjA1NTgyLC0xMD
+E4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAw
+NDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MC
+wtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0yMDY0Mzg5NDEzLC04
+NjAzODMyOTJdfQ==
 -->
