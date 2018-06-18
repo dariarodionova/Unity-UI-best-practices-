@@ -53,7 +53,7 @@ Disable Raycast Target property for all non-interactive elements straight after 
 ![Alt](raycast.png)
 
 12. **Use Presets** </br>
-Starting with Unity 2018, use presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
+Starting with Unity 2018, use [presets](https://docs.unity3d.com/2018.2/Documentation/Manual/Presets.html) for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
 13. **Avoid Best Fit** </br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and performance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
@@ -98,11 +98,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMjYzNDk5LDEyODQ0NjUzNTMsLTc0Nz
-AyNjcyNCw1MzA3ODY4OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0
-LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00Mz
-YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
-NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLT
-EzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUx
-NTIxNTc0XX0=
+eyJoaXN0b3J5IjpbLTI4MTY5OTc2MSwxMjg0NDY1MzUzLC03ND
+cwMjY3MjQsNTMwNzg2ODkzLDExMDc4NjI1NjgsMTIzMzMzNDc1
+NCwxODIyNzY3NTM4LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0MCwtND
+M2MjYzNjYsMTQxNDIwNTU4MiwtMTAxODQxMDgyMCwtMjM3MTcy
+NjYsLTE3MjYzODEyOTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC
+0xMzc2MTgyMjM0LC04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1
+MTUyMTU3NF19
 -->
