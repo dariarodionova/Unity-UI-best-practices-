@@ -9,7 +9,7 @@ Just like objects in the scene or files in the hierarchy, UI elements should be 
 Stick to whatever naming format you chose internally and follow it across all projects.
 
 3. **Organize smarter** </br>
-Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) can be organized inside an empty gameObject. Groups of entities that share a visibility state could also be put into a empty gameObject container with a consistent name, “Content” for instance. This is useful when a group of entities should be turned on or off according to the logic of the game. </br>
+Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) can be organized inside an empty gameObject. Groups of entities that share a visibility state could also be put into an empty gameObject container with a consistent name, “Content” for instance. This is useful when a group of entities should be turned on or off according to the logic of the game. </br>
 Create and use such containers **carefully** because too many unnecessary objects will make the hierarchy overly complicated and leave a mark on the performance.
 ![Alt](element_naming.png)
 
@@ -99,11 +99,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 24.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzY3NDU1LC0xNjUyNTI1NTM5LDEyOD
-Q0NjUzNTMsLTc0NzAyNjcyNCw1MzA3ODY4OTMsMTEwNzg2MjU2
-OCwxMjMzMzM0NzU0LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMT
-QzNDgxMjQwLC00MzYyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEw
-ODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MCw4NjA3MTAwNDQsLT
-EzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3Mjg3OTU4MCwtMzA3
-MjQ3NDEwXX0=
+eyJoaXN0b3J5IjpbLTEwNDM1ODgyNDMsMTgzNzY3NDU1LC0xNj
+UyNTI1NTM5LDEyODQ0NjUzNTMsLTc0NzAyNjcyNCw1MzA3ODY4
+OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0LDE4MjI3Njc1MzgsMj
+AwMjUyNzc0NSwxMTQzNDgxMjQwLC00MzYyNjM2NiwxNDE0MjA1
+NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4MTI5MC
+w4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMzQsLTg3
+Mjg3OTU4MF19
 -->
