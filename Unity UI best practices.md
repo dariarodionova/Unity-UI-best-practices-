@@ -7,9 +7,9 @@ Just like objects in the scene or files in the hierarchy, UI elements should be 
 
 2. **Organize smarter** </br>
 Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) should be organized inside an empty gameObject. Groups of entities that share a visibility state should also be put into a empty gameObject container with a consistent name, “Content” for instance. This is useful when a group of entities should be turned on or off according to the logic of the game. </br>
-Create and use such containers **carefully** because many unnecessary objects will make the hierarchy too complex and leave a mark on the performance.
+Create and use such containers **carefully** because too many unnecessary objects will make the hierarchy overly complicated and leave a mark on the performance.
 
-2. **Stick to it** </br>
+3. **Stick to it** </br>
 Stick to whatever naming format you chose internally and follow it across all projects.
 ![Alt](element_naming.png)
 
@@ -98,11 +98,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NjIzMTQzLC03NDcwMjY3MjQsNTMwNz
-g2ODkzLDExMDc4NjI1NjgsMTIzMzMzNDc1NCwxODIyNzY3NTM4
-LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0MCwtNDM2MjYzNjYsMTQxND
-IwNTU4MiwtMTAxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEy
-OTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC
-04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMjA2
-NDM4OTQxM119
+eyJoaXN0b3J5IjpbMTc1ODQyNzI0MiwtNzQ3MDI2NzI0LDUzMD
+c4Njg5MywxMTA3ODYyNTY4LDEyMzMzMzQ3NTQsMTgyMjc2NzUz
+OCwyMDAyNTI3NzQ1LDExNDM0ODEyNDAsLTQzNjI2MzY2LDE0MT
+QyMDU1ODIsLTEwMTg0MTA4MjAsLTIzNzE3MjY2LC0xNzI2Mzgx
+MjkwLDg2MDcxMDA0NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNC
+wtODcyODc5NTgwLC0zMDcyNDc0MTAsLTE5NTE1MjE1NzQsLTIw
+NjQzODk0MTNdfQ==
 -->
