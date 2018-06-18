@@ -37,7 +37,7 @@ Make sure that all values in Rect Transform are cleaned up manually after eye-ba
 ![Alt](rect_transform.png)
 
 8. **Think first, place pivot point after**</br>
-It is very confusing if an element is positioned with an inappropriately placed pivot point. Depending on the location of the element on the screen and his anchor point, adjust pivot point location to keep the element's position predictable when the resolution changes. This is a **general case**, the desired behaviour can vary from case to case and should be taken into consideration when placing both anchors and pivots of elements/containers.
+It is very confusing if an element is positioned with an inappropriately placed pivot point. Depending on the location of the element on the screen and his anchor point, adjust pivot point location to keep the element's position predictable when the resolution changes. This is a **general case**, the desired behavior can vary from case to case and should be taken into consideration when placing both anchors and pivots of elements/containers.
 
 ![Alt](pivot.png)
 
@@ -99,11 +99,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 24.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Njg5MDgxOSwxODM3Njc0NTUsLTE2NT
-I1MjU1MzksMTI4NDQ2NTM1MywtNzQ3MDI2NzI0LDUzMDc4Njg5
-MywxMTA3ODYyNTY4LDEyMzMzMzQ3NTQsMTgyMjc2NzUzOCwyMD
-AyNTI3NzQ1LDExNDM0ODEyNDAsLTQzNjI2MzY2LDE0MTQyMDU1
-ODIsLTEwMTg0MTA4MjAsLTIzNzE3MjY2LC0xNzI2MzgxMjkwLD
-g2MDcxMDA0NCwtMTM5MTI2MDcyMywtMTM3NjE4MjIzNCwtODcy
-ODc5NTgwXX0=
+eyJoaXN0b3J5IjpbNTQ5MDA3ODU0LDE4Mzc2NzQ1NSwtMTY1Mj
+UyNTUzOSwxMjg0NDY1MzUzLC03NDcwMjY3MjQsNTMwNzg2ODkz
+LDExMDc4NjI1NjgsMTIzMzMzNDc1NCwxODIyNzY3NTM4LDIwMD
+I1Mjc3NDUsMTE0MzQ4MTI0MCwtNDM2MjYzNjYsMTQxNDIwNTU4
+MiwtMTAxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEyOTAsOD
+YwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC04NzI4
+Nzk1ODBdfQ==
 -->
