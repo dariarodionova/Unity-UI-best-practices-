@@ -4,7 +4,9 @@ This list will walk you through UI-specific best practices when working with Uni
 ## General
 1. **Name UI elements sensibly** </br>
 Just like objects in the scene or files in the hierarchy, UI elements should be **named sensibly** with an indicator of the element type.</br>
-Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar) should be organized inside an empty gameObject. Groups of entities that share a visibility state should also be put into a empy gameObject container with a consistent name, “Content” for instance.</br>
+
+2. **Organize smarter** </br>
+Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) should be organized inside an empty gameObject. Groups of entities that share a visibility state should also be put into a empy gameObject container with a consistent name, “Content” for instance.</br>
 This is 
 
 2. **Stick to it** </br>
@@ -96,7 +98,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQzMDA0NDMsLTc0NzAyNjcyNCw1Mz
+eyJoaXN0b3J5IjpbLTEzMTQ3Mzk3MDksLTc0NzAyNjcyNCw1Mz
 A3ODY4OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0LDE4MjI3Njc1
 MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00MzYyNjM2NiwxND
 E0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4
