@@ -7,7 +7,7 @@ Just like objects in the scene or files in the hierarchy, UI elements should be 
 
 2. **Organize smarter** </br>
 Every separate UI entity (e.g. Health Bar, Ammo counter, Stamina Bar etc.) should be organized inside an empty gameObject. Groups of entities that share a visibility state should also be put into a empy gameObject container with a consistent name, “Content” for instance.</br>
-This is 
+Every gameObject which purpose is 
 
 2. **Stick to it** </br>
 Stick to whatever naming format you chose internally and follow it across all projects.
@@ -98,11 +98,11 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ3Mzk3MDksLTc0NzAyNjcyNCw1Mz
-A3ODY4OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0LDE4MjI3Njc1
-MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00MzYyNjM2NiwxND
-E0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2NiwtMTcyNjM4
-MTI5MCw4NjA3MTAwNDQsLTEzOTEyNjA3MjMsLTEzNzYxODIyMz
-QsLTg3Mjg3OTU4MCwtMzA3MjQ3NDEwLC0xOTUxNTIxNTc0LC0y
-MDY0Mzg5NDEzXX0=
+eyJoaXN0b3J5IjpbMjE0MTYwNDcwLC03NDcwMjY3MjQsNTMwNz
+g2ODkzLDExMDc4NjI1NjgsMTIzMzMzNDc1NCwxODIyNzY3NTM4
+LDIwMDI1Mjc3NDUsMTE0MzQ4MTI0MCwtNDM2MjYzNjYsMTQxND
+IwNTU4MiwtMTAxODQxMDgyMCwtMjM3MTcyNjYsLTE3MjYzODEy
+OTAsODYwNzEwMDQ0LC0xMzkxMjYwNzIzLC0xMzc2MTgyMjM0LC
+04NzI4Nzk1ODAsLTMwNzI0NzQxMCwtMTk1MTUyMTU3NCwtMjA2
+NDM4OTQxM119
 -->
