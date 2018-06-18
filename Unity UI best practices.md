@@ -19,46 +19,46 @@ Create a list of common resolutions of the platform that you are targeting. Cons
 ![Alt](resolutions.png)
 
 ## Components
-4. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
+5. **Use a Canvas Scaler with consistent resolution across all Canvases** </br>
 If you have more than one canvas, make sure to utilize a preset for the Canvas Scaler that will have a **certain UI Scale mode** and a **Reference Resolution** that will match your target platform's most common resolution.  
 
 ![Alt](canvas_scaler.png)
 
 
-5. **Adjust Match appropriately** </br>
+6. **Adjust Match appropriately** </br>
 If target platform has many possible resolutions that vary in orientation, it is important to make sure that UI scales correctly. Depending on the prevailing shape of the content on a certain canvas, adjust the Match accordingly. 
 Here is an example of how different Match settings affect a **centered 1000*800 rectangle** (such as an inventory menu in a PC game which usually has a landscape-aligned shape):
 
 ![Alt](match_example.png)
 
-6. **Keep values in Rect Transform clean** </br>
+7. **Keep values in Rect Transform clean** </br>
 Make sure that all values in Rect Transform are cleaned up manually after eye-balled placement of the element. Try to round up numbers to avoid decimals.
 
 ![Alt](rect_transform.png)
 
-7. **Think first, place pivot point after**</br>
+8. **Think first, place pivot point after**</br>
 It is very confusing if an element is positioned with an inappropriately placed pivot point. Depending on the location of the element on the screen and his anchor point, adjust pivot point location to keep the element's position predictable when the resolution changes. This is a **general case**, a desired behaviour can vary from case to case and should be taken into consideration when placing both anchors and pivots of elements/containers.
 
 ![Alt](pivot.png)
 
-8. **Keep Scale at 1** </br>
+9. **Keep Scale at 1** </br>
 The scale of the UI element should always be 1 by default unless it is slightly changed by animation or a specific use case applies.
 
-9. **Simple layout - Rect Transform, more than several elements - Layout Component** </br>
+10. **Simple layout - Rect Transform, more than several elements - Layout Component** </br>
 Use Rect Transform for creating very simple layouts (like anchoring individual element to a corner of the screen) and Layout Components for layouts with more than several elements or anything that should be stacked.
 ![Alt](layout_component.png)
 
-10. **Disable Raycast Target** </br>
+11. **Disable Raycast Target** </br>
 Disable Raycast Target property for all non-interactive elements straight after you have created them. Graphic Raycaster will perform intersection checks every frame for all elements that are marked as a Raycast Target. In case of complex UI with inappropriately marked elements that  could seriously influence performance.
 ![Alt](raycast.png)
 
-11. **Use Presets** </br>
+12. **Use Presets** </br>
 Starting with Unity 2018, use presets for as many common components as possible. Components like Text, Shadow or Outline could be good candidates for having consistent values. 
 
-12. **Avoid Best Fit** </br>
+13. **Avoid Best Fit** </br>
  If using Unity UI, avoid using Best Fit functionality because it is bad both in terms of design practices (limited number of font sizes rule) and performance. You can find more information on why you should avoid Best Fit [here](https://unity3d.com/ru/learn/tutorials/topics/best-practices/optimizing-ui-controls).
  
-13. **Use TextMesh Pro component instead of Text** </br>
+14. **Use TextMesh Pro component instead of Text** </br>
 Because of a Signed Distance Field rendering pipeline, TextMesh Pro could be a very good substitution to a Text component if you are looking for a quality text renders for your project. TextMesh Pro uses the same rebuild rules, so optimization consideration is still necessary.
 
 14. **Do not use textures when they are not needed** </br>
@@ -98,7 +98,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjcyOTMwLDEyODQ0NjUzNTMsLTc0Nz
+eyJoaXN0b3J5IjpbNzgzMjYzNDk5LDEyODQ0NjUzNTMsLTc0Nz
 AyNjcyNCw1MzA3ODY4OTMsMTEwNzg2MjU2OCwxMjMzMzM0NzU0
 LDE4MjI3Njc1MzgsMjAwMjUyNzc0NSwxMTQzNDgxMjQwLC00Mz
 YyNjM2NiwxNDE0MjA1NTgyLC0xMDE4NDEwODIwLC0yMzcxNzI2
