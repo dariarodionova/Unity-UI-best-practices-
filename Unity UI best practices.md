@@ -69,13 +69,13 @@ For the UI elements that could be built from white rectangles, do not use any te
 16. **Use Unity Editor as inspiration** </br>
 Elements like Input Field, Slider or ScrollBar should, **by default**, behave similarly to those in Unity Editor.
 
-16. **Make Debug UI discreet** </br>
+17. **Make Debug UI discreet** </br>
 All developer (debug) UI should be discreet and not overlap the primary UI in any way.
 
-17. **Keep uniformly colored textures white** </br>
+18. **Keep uniformly colored textures white** </br>
 All uniformly colored textures should be white and colored in the Image  component. This promotes wise use of resources.
 
-18. **Strive for good typography** </br> 
+19. **Strive for good typography** </br> 
 Great typography is a must for achieving a professional look for your game/app. Use high-quality fonts and make sure that there are only one or two fonts used. </br>
 As a rule of a thumb, if you are using one font, you can use up to 3 different styles of that font, including regular, bold and italic. If the number of fonts is more than one, consider cutting on the number of styles to 1 or 2 for each font.
 You can find good fonts preselected specifically for apps at [fontshop.com](https://www.fontshop.com/) or [Google Fonts](https://www.fontshop.com/).
@@ -98,7 +98,7 @@ Make sure that the states for UI elements are not dependent on the last state it
 23.  **Your product can't end up bad if you have perfected every step** </br>
 Just thinking about creating a great product won't necessarily bring you there. Try increasing quality of every part of the product, every step of the creation process and only then you can expect to succeed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY2OTAyOTEsMTI4NDQ2NTM1MywtNz
+eyJoaXN0b3J5IjpbLTE4NDg1MTg1ODAsMTI4NDQ2NTM1MywtNz
 Q3MDI2NzI0LDUzMDc4Njg5MywxMTA3ODYyNTY4LDEyMzMzMzQ3
 NTQsMTgyMjc2NzUzOCwyMDAyNTI3NzQ1LDExNDM0ODEyNDAsLT
 QzNjI2MzY2LDE0MTQyMDU1ODIsLTEwMTg0MTA4MjAsLTIzNzE3
